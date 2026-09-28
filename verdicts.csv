@@ -1,0 +1,1308 @@
+date,symbol,name,verdict,source,recorded
+2026-04-06,ATB,Farma – Antibiotice (BVB),avoid,v31,2026-09-28
+2026-04-06,BRD,Banca (BVB),monitor,v31,2026-09-28
+2026-04-06,COTE,Hidrocarburi (BVB),speculative,v31,2026-09-28
+2026-04-06,DIGI,Telecom (BVB),monitor,v31,2026-09-28
+2026-04-06,H2O,Hidroenergie (BVB),interesting,v31,2026-09-28
+2026-04-06,TEL,Transport Electricitate (BVB),speculative,v31,2026-09-28
+2026-04-06,TGN,Transport Gaze (BVB) RESTRICTIONAT,monitor,v31,2026-09-28
+2026-04-06,TRP,Materiale Constructii (BVB),avoid,v31,2026-09-28
+2026-04-06,UNH,UnitedHealth Group Incorporated,monitor,v31,2026-09-28
+2026-04-06,UPS,Logistica (NYSE),speculative,v31,2026-09-28
+2026-04-06,WINE,Purcari Wineries PCL,monitor,v31,2026-09-28
+2026-04-24,MKC,Condimente – McCormick (NYSE),monitor,v31,2026-09-28
+2026-05-10,LAC,Litiu Mining – Lithium Americas (NYSE),avoid,import,2026-09-28
+2026-05-12,FSBC,Five Star Bancorp,interesting,v31,2026-09-28
+2026-05-12,JHG,Asset Management – Janus Henderson,speculative,v31,2026-09-28
+2026-05-17,MRNA,Biotehnologie – Moderna (NASDAQ),avoid,v31,2026-09-28
+2026-05-18,USAR,Rare Earth Mining – USA Rare Earth (NASDAQ),avoid,import,2026-09-28
+2026-05-19,LRCX,Lam Research Corporation,interesting,import,2026-09-28
+2026-05-19,SNAP,Social Media – Snap Inc. (NYSE),avoid,import,2026-09-28
+2026-05-21,PYPL,"PayPal Holdings, Inc.",monitor,v31,2026-09-28
+2026-05-24,NVR,Homebuilder Premium – NVR Inc. (NYSE),speculative,import,2026-09-28
+2026-05-24,SHOP,E-commerce Platform – Shopify (NASDAQ),monitor,import,2026-09-28
+2026-06-03,CARE,Retail îmbrăcăminte copii (NYSE),monitor,v31,2026-09-28
+2026-06-03,CEPU,Central Puerto S.A.,interesting,v31,2026-09-28
+2026-06-24,BRW,Saba Capital Income & Opportunities Fund (NYSE),monitor,import,2026-09-28
+2026-06-24,EDD,Morgan Stanley EM Domestic Debt Fund (NYSE),speculative,import,2026-09-28
+2026-06-24,EGAN,eGain Corp (NASDAQ),monitor,v31,2026-09-28
+2026-06-24,JFIN,Jiayin Group (NASDAQ ADR),avoid,v31,2026-09-28
+2026-06-24,LONG,Longshield Investment Group (BVB),speculative,import,2026-09-28
+2026-06-24,NCV,Virtus Convertible & Income Fund (NYSE),speculative,import,2026-09-28
+2026-06-24,NCZ,Virtus Convertible & Income Fund II (NYSE),speculative,import,2026-09-28
+2026-06-24,NMAI,Nuveen Multi-Asset Income Fund (NYSE),speculative,import,2026-09-28
+2026-06-24,TEI,Templeton Emerging Markets Income Fund (NYSE),speculative,import,2026-09-28
+2026-07-02,AXS,AXIS Capital Holdings Limited,interesting,v31,2026-09-28
+2026-07-02,ETG,Fond inchis (CEF) - Eaton Vance Tax-Adv. Global Div. Income,avoid,import,2026-09-28
+2026-07-02,INSW,Transport maritim petrol - International Seaways (NYSE),speculative,v31,2026-09-28
+2026-07-02,SF,Banca de investitii/wealth management - Stifel Financial (NYSE),speculative,v31,2026-09-28
+2026-07-09,CHI,Fond închis obligațiuni convertibile + venit (NASDAQ),speculative,import,2026-09-28
+2026-07-09,CHY,Fond închis convertibile + high-yield (NASDAQ),monitor,import,2026-09-28
+2026-07-09,VOW,"Volkswagen AG (Xetra) — auto producător global, restructurare majoră în curs",speculative,v31,2026-09-28
+2026-07-10,AAPL,Apple Inc.,monitor,v31,2026-09-28
+2026-07-10,MU,"Micron Technology, Inc.",speculative,gbl,2026-09-28
+2026-07-10,TLV,Banca Transilvania S.A.,interesting,gbl,2026-09-28
+2026-07-11,AFYA,Afya Limited,strong_buy,gbl,2026-09-28
+2026-07-11,MU,"Micron Technology, Inc.",speculative,v31,2026-09-28
+2026-07-11,TLV,Banca Transilvania S.A.,strong_buy,v31,2026-09-28
+2026-07-12,AAPL,Apple Inc.,monitor,v31,2026-09-28
+2026-07-12,AEP,"American Electric Power Company, Inc.",speculative,v31,2026-09-28
+2026-07-12,CORX,"Core Scientific, Inc.",avoid,v31,2026-09-28
+2026-07-12,DN,DN Agrar Group S.A.,buy,v31,2026-09-28
+2026-07-12,FSV,FirstService Corporation,interesting,v31,2026-09-28
+2026-07-12,GSL,"Global Ship Lease, Inc.",strong_buy,v31,2026-09-28
+2026-07-12,HAN,Hannan Metals Ltd.,avoid,v31,2026-09-28
+2026-07-12,HANA,"Hana Microelectronics Public Co., Ltd.",speculative,v31,2026-09-28
+2026-07-12,JKHY,"Jack Henry & Associates, Inc.",interesting,v31,2026-09-28
+2026-07-12,JNJ,Johnson & Johnson,monitor,gbl,2026-09-28
+2026-07-12,NVDA,NVIDIA Corporation,interesting,v31,2026-09-28
+2026-07-12,NVO,Novo Nordisk A/S,buy,v31,2026-09-28
+2026-07-12,SBC,SBC Medical Group Holdings Inc,monitor,v31,2026-09-28
+2026-07-12,SRB,Serabi Gold plc,interesting,v31,2026-09-28
+2026-07-12,TCOM,Trip.com Group Limited,interesting,v31,2026-09-28
+2026-07-12,THX,Thor Explorations Ltd.,buy,v31,2026-09-28
+2026-07-12,TLV,Banca Transilvania S.A.,strong_buy,v31,2026-09-28
+2026-07-12,XZO,"Exzeo Group, Inc.",buy,v31,2026-09-28
+2026-07-13,CPA,"Copa Holdings, S.A.",buy,v31,2026-09-28
+2026-07-13,GSL,"Global Ship Lease, Inc.",buy,deep,2026-09-28
+2026-07-13,JCH,"Jack Henry & Associates, Inc.",interesting,gbl,2026-09-28
+2026-07-13,JNJ,Johnson & Johnson,monitor,v31,2026-09-28
+2026-07-13,SHW,The Sherwin-Williams Company,interesting,v31,2026-09-28
+2026-07-13,THX,Thor Explorations Ltd.,buy,v31,2026-09-28
+2026-07-14,CRN,Cairn Homes plc,interesting,v31,2026-09-28
+2026-07-14,TMPL,TemplateMonster,avoid,v31,2026-09-28
+2026-07-16,AFYA,Afya Limited,strong_buy,deep,2026-09-28
+2026-07-17,ACIC,American Coastal Insurance Corporation,interesting,deep,2026-09-28
+2026-07-18,CB,Chubb Limited,buy,v31,2026-09-28
+2026-07-18,CBNK,"Capital Bancorp, Inc.",monitor,v31,2026-09-28
+2026-07-18,GOOGL,Alphabet Inc.,buy,v31,2026-09-28
+2026-07-18,NVO,Novo Nordisk A/S,monitor,v31,2026-09-28
+2026-07-18,THG,"The Hanover Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-07-18,UNTY,"Unity Bancorp, Inc.",buy,v31,2026-09-28
+2026-07-19,HCI,"HCI Group, Inc.",interesting,v31,2026-09-28
+2026-07-19,NRIM,"Northrim BanCorp, Inc.",interesting,v31,2026-09-28
+2026-07-19,OBT,"Orange County Bancorp, Inc.",monitor,v31,2026-09-28
+2026-07-19,ONE,One United Properties S.A.,buy,v31,2026-09-28
+2026-07-19,SNN,S.N. Nuclearelectrica S.A.,monitor,v31,2026-09-28
+2026-07-19,STRL,"Sterling Infrastructure, Inc.",monitor,v31,2026-09-28
+2026-07-19,TLV,Banca Transilvania S.A.,interesting,v31,2026-09-28
+2026-07-20,EL,Societatea Energetica Electrica S.A.,monitor,gbl,2026-09-28
+2026-07-20,IMP,Impact Developer & Contractor S.A.,buy,v31,2026-09-28
+2026-07-20,M,Med Life S.A.,avoid,v31,2026-09-28
+2026-07-20,PUK,Prudential plc,interesting,v31,2026-09-28
+2026-07-20,SNN,S.N. Nuclearelectrica S.A.,speculative,deep,2026-09-28
+2026-07-21,PRDO,Perdoceo Education Corporation,buy,v31,2026-09-28
+2026-07-21,SKWD,"Skyward Specialty Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-07-21,SPNT,SiriusPoint Ltd.,buy,gbl,2026-09-28
+2026-07-21,WTM,"White Mountains Insurance Group, Ltd.",interesting,gbl,2026-09-28
+2026-07-22,ASIC,Ategrity Specialty Insurance Co Holdings,interesting,gbl,2026-09-28
+2026-07-22,FFH,Fairfax Financial Holdings Limited,buy,gbl,2026-09-28
+2026-07-22,GSL,"Global Ship Lease, Inc.",interesting,deep,2026-09-28
+2026-07-22,SNN,S.N. Nuclearelectrica S.A.,buy,v31,2026-09-28
+2026-07-22,UBER,"Uber Technologies, Inc.",monitor,v31,2026-09-28
+2026-07-23,DAC,Danaos Corporation,interesting,v31,2026-09-28
+2026-07-23,TLV,Banca Transilvania S.A.,interesting,deep,2026-09-28
+2026-07-24,ASIC,Ategrity Specialty Insurance Co Holdings,interesting,v31,2026-09-28
+2026-07-24,BOL,Bolloré SE,speculative,v31,2026-09-28
+2026-07-24,HG,"Hamilton Insurance Group, Ltd.",buy,gbl,2026-09-28
+2026-07-24,IMP,Impact Developer & Contractor S.A.,monitor,v31,2026-09-28
+2026-07-24,NBN,Northeast Bank,monitor,v31,2026-09-28
+2026-07-24,NMIH,"NMI Holdings, Inc.",interesting,v31,2026-09-28
+2026-07-24,SPNT,SiriusPoint Ltd.,speculative,v31,2026-09-28
+2026-07-25,CMTV,Community Bancorp.,monitor,v31,2026-09-28
+2026-07-25,GCBC,"Greene County Bancorp, Inc.",interesting,v31,2026-09-28
+2026-07-26,AFL,Aflac Incorporated,interesting,v31,2026-09-28
+2026-07-26,CRN,Cairn Homes plc,interesting,v31,2026-09-28
+2026-07-26,ESEA,Euroseas Ltd.,interesting,v31,2026-09-28
+2026-07-26,HG,"Hamilton Insurance Group, Ltd.",monitor,v31,2026-09-28
+2026-07-26,INSP,"Inspire Medical Systems, Inc.",avoid,v31,2026-09-28
+2026-07-26,SRB,Serabi Gold plc,monitor,v31,2026-09-28
+2026-07-27,CGAU,Centerra Gold Inc.,speculative,v31,2026-09-28
+2026-07-27,DN,DN Agrar Group S.A.,monitor,v31,2026-09-28
+2026-07-27,ERO,Ero Copper Corp.,monitor,v31,2026-09-28
+2026-07-27,FAF,First American Financial Corporation,interesting,v31,2026-09-28
+2026-07-27,KINS,"Kingstone Companies, Inc.",speculative,v31,2026-09-28
+2026-07-27,NMIH,"NMI Holdings, Inc.",interesting,v31,2026-09-28
+2026-07-27,ORI,Old Republic International Corporation,interesting,v31,2026-09-28
+2026-07-27,UNTY,"Unity Bancorp, Inc.",buy,v31,2026-09-28
+2026-07-27,VGNT,Versent PLC,monitor,v31,2026-09-28
+2026-07-28,CB,Chubb Limited,monitor,deep,2026-09-28
+2026-07-28,CPA,"Copa Holdings, S.A.",interesting,gbl,2026-09-28
+2026-07-28,FAF,First American Financial Corporation,monitor,v31,2026-09-28
+2026-07-28,FFH,Fairfax Financial Holdings Limited,interesting,v31,2026-09-28
+2026-07-28,GOOGL,Alphabet Inc.,monitor,v31,2026-09-28
+2026-07-28,NRIM,"Northrim BanCorp, Inc.",monitor,v31,2026-09-28
+2026-07-28,SKWD,"Skyward Specialty Insurance Group, Inc.",monitor,v31,2026-09-28
+2026-07-29,6750,"Elecom Co., Ltd.",strong_buy,gbl,2026-09-28
+2026-07-30,6750,"Elecom Co., Ltd.",buy,gbl,2026-09-28
+2026-07-30,META,Meta Platforms Inc,interesting,v31,2026-09-28
+2026-07-30,VZ,Verizon Communications Inc.,monitor,v31,2026-09-28
+2026-07-31,ASC,Ardmore Shipping Corporation,monitor,v31,2026-09-28
+2026-08-01,ALAB,"Astera Labs, Inc.",monitor,v31,2026-09-28
+2026-08-01,ARIS,Aris Mining Corporation,speculative,v31,2026-09-28
+2026-08-01,TNK,Teekay Tankers Ltd.,monitor,v31,2026-09-28
+2026-08-01,UVE,"Universal Insurance Holdings, Inc.",buy,v31,2026-09-28
+2026-08-02,BUCV,S.C. Bucur S.A.,monitor,v31,2026-09-28
+2026-08-02,CAT,Caterpillar Inc.,monitor,v31,2026-09-28
+2026-08-02,CINF,Cincinnati Financial Corporation,monitor,v31,2026-09-28
+2026-08-02,HIG,"The Hartford Insurance Group, Inc.",buy,v31,2026-09-28
+2026-08-02,LRCX,Lam Research Corporation,monitor,v31,2026-09-28
+2026-08-03,6750,"Elecom Co., Ltd.",interesting,gbl,2026-09-28
+2026-08-03,CINF,Cincinnati Financial Corporation,monitor,gbl,2026-09-28
+2026-08-03,HCI,"HCI Group, Inc.",monitor,v31,2026-09-28
+2026-08-03,LLY,Eli Lilly and Company,monitor,gbl,2026-09-28
+2026-08-03,MC,"LVMH Moët Hennessy - Louis Vuitton, SE",interesting,v31,2026-09-28
+2026-08-03,NVDA,NVIDIA Corporation,interesting,v31,2026-09-28
+2026-08-03,RIGL,Rigel Pharmaceuticals Inc,monitor,v31,2026-09-28
+2026-08-03,TNK,Teekay Tankers Ltd.,speculative,v31,2026-09-28
+2026-08-04,ADIG,ADI Global Distribution Inc.,monitor,gbl,2026-09-28
+2026-08-04,DAC,Danaos Corporation,interesting,v31,2026-09-28
+2026-08-04,DLO,DLocal Limited,monitor,v31,2026-09-28
+2026-08-04,PDD,PDD Holdings Inc.,monitor,v31,2026-09-28
+2026-08-04,STNG,Scorpio Tankers Inc.,monitor,v31,2026-09-28
+2026-08-05,BNET,Bittnet Systems SA,avoid,v31,2026-09-28
+2026-08-05,DHR,Danaher Corporation,speculative,v31,2026-09-28
+2026-08-06,ACIC,American Coastal Insurance Corporation,monitor,v31,2026-09-28
+2026-08-06,CPA,"Copa Holdings, S.A.",interesting,gbl,2026-09-28
+2026-08-06,DAC,Danaos Corporation,interesting,v31,2026-09-28
+2026-08-06,INDV,"Indivior Pharmaceuticals, Inc.",monitor,v31,2026-09-28
+2026-08-06,REZI,"Resideo Technologies, Inc.",avoid,v31,2026-09-28
+2026-08-06,SUPN,Supernus Pharmaceuticals Inc.,speculative,v31,2026-09-28
+2026-08-07,ACIC,American Coastal Insurance Corporation,monitor,v31,2026-09-28
+2026-08-07,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-08-07,HCI,"HCI Group, Inc.",interesting,v31,2026-09-28
+2026-08-07,HONA,Honeywell Aerospace Inc.,speculative,v31,2026-09-28
+2026-08-07,RNL,Renault SA,speculative,v31,2026-09-28
+2026-08-07,SNN,S.N. Nuclearelectrica S.A.,interesting,v31,2026-09-28
+2026-08-07,SUNB,"Sunbelt Rentals Holdings, Inc.",speculative,v31,2026-09-28
+2026-08-07,TRU,TransUnion,monitor,v31,2026-09-28
+2026-08-08,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-08-08,HCI,"HCI Group, Inc.",interesting,v31,2026-09-28
+2026-08-08,INVA,"Innoviva, Inc.",interesting,v31,2026-09-28
+2026-08-08,UVE,"Universal Insurance Holdings, Inc.",monitor,v31,2026-09-28
+2026-08-09,BLCO,Bausch + Lomb Corporation,avoid,v31,2026-09-28
+2026-08-09,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-08-09,GSL,"Global Ship Lease, Inc.",buy,v31,2026-09-28
+2026-08-09,HM-B,H & M Hennes & Mauritz AB (publ),monitor,v31,2026-09-28
+2026-08-09,XZO,"Exzeo Group, Inc.",monitor,gbl,2026-09-28
+2026-08-10,CPA,"Copa Holdings, S.A.",monitor,gbl,2026-09-28
+2026-08-10,XZO,"Exzeo Group, Inc.",interesting,gbl,2026-09-28
+2026-08-11,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-08-11,HCI,"HCI Group, Inc.",buy,gbl,2026-09-28
+2026-08-12,AFYA,Afya Limited,buy,gbl,2026-09-28
+2026-08-12,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-08-12,HCI,"HCI Group, Inc.",interesting,v31,2026-09-28
+2026-08-12,JAZZ,Jazz Pharmaceuticals plc,speculative,v31,2026-09-28
+2026-08-13,BUCV,S.C. Bucur S.A.,interesting,v31,2026-09-28
+2026-08-13,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-08-13,HCI,"HCI Group, Inc.",interesting,v31,2026-09-28
+2026-08-13,LRCX,Lam Research Corporation,monitor,v31,2026-09-28
+2026-08-14,AFYA,Afya Limited,interesting,v31,2026-09-28
+2026-08-14,AMAT,"Applied Materials, Inc.",interesting,v31,2026-09-28
+2026-08-14,HCI,"HCI Group, Inc.",monitor,v31,2026-09-28
+2026-08-14,LLY,Eli Lilly and Company,interesting,v31,2026-09-28
+2026-08-14,MC,"LVMH Moët Hennessy - Louis Vuitton, SE",monitor,gbl,2026-09-28
+2026-08-14,PRDO,Perdoceo Education Corporation,interesting,v31,2026-09-28
+2026-08-14,RIGL,Rigel Pharmaceuticals Inc,monitor,v31,2026-09-28
+2026-08-15,2317,Systena Corporation,buy,v31,2026-09-28
+2026-08-15,ADIG,ADI Global Distribution Inc.,speculative,v31,2026-09-28
+2026-08-15,BVN,Compania de Minas Buenaventura S.A.A.,interesting,v31,2026-09-28
+2026-08-15,CEPU,Central Puerto S.A.,interesting,v31,2026-09-28
+2026-08-15,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-08-15,DAC,Danaos Corporation,interesting,gbl,2026-09-28
+2026-08-15,GSL,"Global Ship Lease, Inc.",buy,v31,2026-09-28
+2026-08-15,HCI,"HCI Group, Inc.",monitor,gbl,2026-09-28
+2026-08-15,THX,Thor Explorations Ltd.,monitor,gbl,2026-09-28
+2026-08-16,2317,Systena Corporation,interesting,v31,2026-09-28
+2026-08-16,4368,"Fuso Chemical Co., Ltd.",interesting,v31,2026-09-28
+2026-08-16,5334,"Niterra Co., Ltd.",monitor,v31,2026-09-28
+2026-08-16,6750,"Elecom Co., Ltd.",buy,v31,2026-09-28
+2026-08-16,ACAD,ACADIA Pharmaceuticals Inc.,speculative,v31,2026-09-28
+2026-08-16,ACIC,American Coastal Insurance Corporation,monitor,v31,2026-09-28
+2026-08-16,AEM,Alter Ego Media S.A.,monitor,v31,2026-09-28
+2026-08-16,AGI,Alamos Gold Inc.,monitor,v31,2026-09-28
+2026-08-16,ATYM,Atalaya Mining Copper SA,monitor,v31,2026-09-28
+2026-08-16,AUPH,Aurinia Pharmaceuticals Inc.,speculative,v31,2026-09-28
+2026-08-16,B,Barrick Mining Corporation,monitor,v31,2026-09-28
+2026-08-16,BOOT,"Boot Barn Holdings, Inc.",monitor,v31,2026-09-28
+2026-08-16,CF,"CF Industries Holdings, Inc.",interesting,v31,2026-09-28
+2026-08-16,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-08-16,CRUS,"Cirrus Logic, Inc.",monitor,v31,2026-09-28
+2026-08-16,DASTY,Dassault Systemes SE (ADR),monitor,v31,2026-09-28
+2026-08-16,DHT,"DHT Holdings, Inc.",speculative,v31,2026-09-28
+2026-08-16,DPMLF,DPM Metals Inc.,monitor,v31,2026-09-28
+2026-08-16,ECO,Okeanis Eco Tankers Corp.,speculative,v31,2026-09-28
+2026-08-16,EMG,Man Group PLC,monitor,v31,2026-09-28
+2026-08-16,ETOR,eToro Group Ltd.,monitor,v31,2026-09-28
+2026-08-16,FRO,Frontline plc,monitor,v31,2026-09-28
+2026-08-16,FRPT,Freshpet Inc,monitor,v31,2026-09-28
+2026-08-16,FSLR,"First Solar, Inc.",interesting,v31,2026-09-28
+2026-08-16,GCT,"GigaCloud Technology, Inc. Class A",interesting,v31,2026-09-28
+2026-08-16,GSL,"Global Ship Lease, Inc.",monitor,v31,2026-09-28
+2026-08-16,HBM,Hudbay Minerals Inc,speculative,v31,2026-09-28
+2026-08-16,KGC,Kinross Gold Corporation,monitor,v31,2026-09-28
+2026-08-16,NEM,Newmont Corporation,speculative,v31,2026-09-28
+2026-08-16,OGC,OceanaGold Corporation,monitor,v31,2026-09-28
+2026-08-16,PAAS,Pan American Silver Corp.,speculative,v31,2026-09-28
+2026-08-16,RAMP,"LiveRamp Holdings, Inc.",speculative,v31,2026-09-28
+2026-08-16,TILE,"Interface, Inc.",monitor,v31,2026-09-28
+2026-08-16,TROW,"T. Rowe Price Group, Inc.",monitor,v31,2026-09-28
+2026-08-16,TTVSY,"TOTVS S.A. (ADR nesponsorizat, primar BVMF: TOTS3)",interesting,v31,2026-09-28
+2026-08-16,UMC,United Microelectronics Corp.,monitor,v31,2026-09-28
+2026-08-16,VCTR,"Victory Capital Holdings, Inc. Class A",interesting,v31,2026-09-28
+2026-08-16,WOR,"Worthington Enterprises, Inc.",monitor,v31,2026-09-28
+2026-08-16,XZO,"Exzeo Group, Inc.",speculative,v31,2026-09-28
+2026-08-17,4368,"Fuso Chemical Co., Ltd.",interesting,v31,2026-09-28
+2026-08-17,6101,Tsugami Corporation,monitor,v31,2026-09-28
+2026-08-17,AFMJF,Alphamin Resources Corp.,monitor,v31,2026-09-28
+2026-08-17,ALTN,AltynGold Plc,monitor,v31,2026-09-28
+2026-08-17,AMSC,American Superconductor Corporation,speculative,v31,2026-09-28
+2026-08-17,ANPMF,Andean Precious Metals Corp,monitor,v31,2026-09-28
+2026-08-17,ANTP,Anthropic PBC,avoid,v31,2026-09-28
+2026-08-17,ATYM,Atalaya Mining Copper SA,monitor,v31,2026-09-28
+2026-08-17,AUPH,Aurinia Pharmaceuticals Inc.,monitor,v31,2026-09-28
+2026-08-17,BWLP,BW LPG Limited,monitor,v31,2026-09-28
+2026-08-17,CMCL,Caledonia Mining Corporation PLC,monitor,v31,2026-09-28
+2026-08-17,CRMD,CorMedix Inc.,avoid,v31,2026-09-28
+2026-08-17,DASTY,Dassault Systemes SE (ADR),monitor,v31,2026-09-28
+2026-08-17,DPMLF,DPM Metals Inc.,monitor,v31,2026-09-28
+2026-08-17,DVL,Develia S.A.,monitor,v31,2026-09-28
+2026-08-17,EMG,Man Group PLC,monitor,v31,2026-09-28
+2026-08-17,ETOR,eToro Group Ltd.,monitor,v31,2026-09-28
+2026-08-17,EVER,"EverQuote, Inc. Class A",speculative,v31,2026-09-28
+2026-08-17,FRP,FRP Advisory Group plc,interesting,v31,2026-09-28
+2026-08-17,FSV,FirstService Corporation,interesting,v31,2026-09-28
+2026-08-17,G,Genpact Limited,monitor,v31,2026-09-28
+2026-08-17,GCT,"GigaCloud Technology, Inc. Class A",interesting,v31,2026-09-28
+2026-08-17,GPW,Gielda Papierow Wartosciowych w Warszawie S.A.,monitor,v31,2026-09-28
+2026-08-17,GSL,"Global Ship Lease, Inc.",buy,v31,2026-09-28
+2026-08-17,INVA,"Innoviva, Inc.",monitor,v31,2026-09-28
+2026-08-17,KGC,Kinross Gold Corporation,speculative,v31,2026-09-28
+2026-08-17,LBW,Lubawa S.A.,interesting,v31,2026-09-28
+2026-08-17,LPG,Dorian LPG Ltd.,monitor,v31,2026-09-28
+2026-08-17,MMTMF,Monument Mining Limited,monitor,v31,2026-09-28
+2026-08-17,RAMP,"LiveRamp Holdings, Inc.",speculative,v31,2026-09-28
+2026-08-17,RFX,Ramsdens Holdings PLC,interesting,v31,2026-09-28
+2026-08-17,SBC,SBC Medical Group Holdings Inc,speculative,v31,2026-09-28
+2026-08-17,SPSY,Spectra Systems Corporation,monitor,v31,2026-09-28
+2026-08-17,STNG,Scorpio Tankers Inc.,speculative,v31,2026-09-28
+2026-08-17,TILE,"Interface, Inc.",monitor,v31,2026-09-28
+2026-08-17,TTVSY,"TOTVS S.A. (ADR nesponsorizat, primar BVMF: TOTS3)",interesting,v31,2026-09-28
+2026-08-17,UMC,United Microelectronics Corp.,speculative,v31,2026-09-28
+2026-08-17,WOR,"Worthington Enterprises, Inc.",monitor,v31,2026-09-28
+2026-08-17,XZO,"Exzeo Group, Inc.",monitor,v31,2026-09-28
+2026-08-18,0YAL,Boliden AB (publ),interesting,v31,2026-09-28
+2026-08-18,3983,"oRo Co., Ltd.",interesting,v31,2026-09-28
+2026-08-18,EVER,"EverQuote, Inc. Class A",monitor,v31,2026-09-28
+2026-08-18,JCH,"Jack Henry & Associates, Inc.",speculative,gbl,2026-09-28
+2026-08-18,THXPF,Thor Explorations Ltd.,interesting,gbl,2026-09-28
+2026-08-18,UBER,"Uber Technologies, Inc.",monitor,v31,2026-09-28
+2026-08-19,005930,"Samsung Electronics Co., Ltd.",speculative,v31,2026-09-28
+2026-08-19,3983,"oRo Co., Ltd.",monitor,v31,2026-09-28
+2026-08-19,CBNK,"Capital Bancorp, Inc.",interesting,v31,2026-09-28
+2026-08-19,CNC,Centene Corporation,avoid,v31,2026-09-28
+2026-08-19,FLEX,Flex Ltd.,speculative,v31,2026-09-28
+2026-08-19,MAIR,Madison Air Solutions Corporation,speculative,v31,2026-09-28
+2026-08-19,MWA,"Mueller Water Products, Inc.",interesting,gbl,2026-09-28
+2026-08-19,PCO,Pepco Group N.V.,speculative,v31,2026-09-28
+2026-08-19,THG,"The Hanover Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-08-20,0OAW,Mowi ASA,monitor,v31,2026-09-28
+2026-08-20,ONE,One United Properties S.A.,interesting,v31,2026-09-28
+2026-08-21,BUCV,S.C. Bucur S.A.,monitor,v31,2026-09-28
+2026-08-21,BVN,Compania de Minas Buenaventura S.A.A.,speculative,v31,2026-09-28
+2026-08-21,DAC,Danaos Corporation,interesting,v31,2026-09-28
+2026-08-21,EL,Societatea Energetica Electrica S.A.,monitor,v31,2026-09-28
+2026-08-21,LRCX,Lam Research Corporation,monitor,v31,2026-09-28
+2026-08-21,MC,"LVMH Moët Hennessy - Louis Vuitton, SE",monitor,v31,2026-09-28
+2026-08-21,MOWI,Mowi ASA,interesting,v31,2026-09-28
+2026-08-21,PUK,Prudential plc,interesting,v31,2026-09-28
+2026-08-21,TCOM,Trip.com Group Limited,monitor,v31,2026-09-28
+2026-08-22,000990,DB HiTek Co. LTD,interesting,v31,2026-09-28
+2026-08-22,001060,JW Pharmaceutical Corp. (JW중외제약),buy,v31,2026-09-28
+2026-08-22,003350,"Hankook Cosmetics Manufacturing Co., Ltd.",buy,v31,2026-09-28
+2026-08-22,003720,"Samyoung Co., Ltd.",monitor,v31,2026-09-28
+2026-08-22,005690,"Pharmicell Co., Ltd.",monitor,v31,2026-09-28
+2026-08-22,005935,Samsung Electronics Co Ltd Pfd Non-Voting,speculative,v31,2026-09-28
+2026-08-22,009450,"Kyung Dong Navien Co., Ltd.",interesting,v31,2026-09-28
+2026-08-22,0175,Geely Automobile Holdings Limited,interesting,v31,2026-09-28
+2026-08-22,017960,"Hankuk Carbon Co., Ltd.",monitor,v31,2026-09-28
+2026-08-22,023160,TK Corporation (Tae Kwang),monitor,v31,2026-09-28
+2026-08-22,025560,Mirae Corporation,speculative,v31,2026-09-28
+2026-08-22,030190,"NICE Information Service Co., Ltd.",buy,v31,2026-09-28
+2026-08-22,033780,KT&G Corporation,monitor,v31,2026-09-28
+2026-08-22,036620,GAMSUNG Corporation,buy,v31,2026-09-28
+2026-08-22,041830,"InBody Co., Ltd.",monitor,v31,2026-09-28
+2026-08-22,050890,"SOLiD, Inc.",monitor,v31,2026-09-28
+2026-08-22,052400,"KONA I CO., LTD.",interesting,v31,2026-09-28
+2026-08-22,064350,Hyundai Rotem Company,interesting,v31,2026-09-28
+2026-08-22,064850,FnGuide Inc.,buy,v31,2026-09-28
+2026-08-22,082920,"Vitzrocell Co., Ltd.",buy,v31,2026-09-28
+2026-08-22,083450,"Global Standard Technology Co., Ltd. (GST)",monitor,v31,2026-09-28
+2026-08-22,092730,"NeoPharm Co., Ltd.",buy,v31,2026-09-28
+2026-08-22,098070,"Hantech Co., Ltd.",interesting,v31,2026-09-28
+2026-08-22,0ND5,H. Lundbeck A/S Class B,interesting,v31,2026-09-28
+2026-08-22,0NZT,UCB SA,monitor,v31,2026-09-28
+2026-08-22,100120,"Vieworks Co., Ltd.",monitor,v31,2026-09-28
+2026-08-22,100840,"SNT Energy Co., Ltd.",interesting,v31,2026-09-28
+2026-08-22,110990,DIT Corp.,interesting,v31,2026-09-28
+2026-08-22,1318,"Mao Geping Cosmetics Co., Ltd. Class H",buy,v31,2026-09-28
+2026-08-22,EMPYF,Empress Royalty Corp.,speculative,v31,2026-09-28
+2026-08-22,IAG,International Consolidated Airlines Group S.A.,speculative,v31,2026-09-28
+2026-08-22,MWA,"Mueller Water Products, Inc.",interesting,v31,2026-09-28
+2026-08-22,NUTX,Nutex Health Inc.,speculative,v31,2026-09-28
+2026-08-22,OET,Okeanis Eco Tankers Corp.,monitor,v31,2026-09-28
+2026-08-22,OGC,OceanaGold Corporation,speculative,v31,2026-09-28
+2026-08-22,RSG,"Republic Services, Inc.",monitor,v31,2026-09-28
+2026-08-22,ZJK,"ZJK Industrial Co., Ltd.",speculative,v31,2026-09-28
+2026-08-23,000990,DB HiTek Co. LTD,monitor,v31,2026-09-28
+2026-08-23,001060,JW Pharmaceutical Corp. (JW중외제약),buy,v31,2026-09-28
+2026-08-23,005935,Samsung Electronics Co Ltd Pfd Non-Voting,monitor,v31,2026-09-28
+2026-08-23,009450,"Kyung Dong Navien Co., Ltd.",interesting,v31,2026-09-28
+2026-08-23,017960,"Hankuk Carbon Co., Ltd.",monitor,v31,2026-09-28
+2026-08-23,025560,Mirae Corporation,speculative,v31,2026-09-28
+2026-08-23,071970,"HD-Hyundai Marine Engine Co., Ltd.",speculative,v31,2026-09-28
+2026-08-23,092730,"NeoPharm Co., Ltd.",buy,v31,2026-09-28
+2026-08-23,0ND5,H. Lundbeck A/S Class B,interesting,v31,2026-09-28
+2026-08-23,1651,Precision Tsugami (China) Corporation Limited,monitor,v31,2026-09-28
+2026-08-23,1681,Consun Pharmaceutical Group Limited,buy,v31,2026-09-28
+2026-08-23,1712,Dragon Mining Limited,speculative,v31,2026-09-28
+2026-08-23,179290,"M.I.TECH Co., Ltd",interesting,v31,2026-09-28
+2026-08-23,1837,Natural Food International Holding Limited,buy,v31,2026-09-28
+2026-08-23,2099,China Gold International Resources Corp. Ltd.,speculative,v31,2026-09-28
+2026-08-23,213420,"Duk San Neolux Co.,Ltd",monitor,v31,2026-09-28
+2026-08-23,214150,CLASSYS Inc.,interesting,v31,2026-09-28
+2026-08-23,2142,HBM Holdings Ltd.,speculative,v31,2026-09-28
+2026-08-23,2145,"Shanghai Chicmax Cosmetic Co., Ltd. Class H",interesting,v31,2026-09-28
+2026-08-23,2273,Gushengtang Holdings,interesting,v31,2026-09-28
+2026-08-23,2378,Prudential plc,monitor,v31,2026-09-28
+2026-08-23,2382,"Sunny Optical Technology (Group) Co., Ltd.",monitor,v31,2026-09-28
+2026-08-23,2400,XD Inc.,monitor,v31,2026-09-28
+2026-08-23,2507,Cirrus Aircraft Limited,interesting,v31,2026-09-28
+2026-08-23,2555,"Sichuan Baicha Baidao Industrial Co., Ltd.",interesting,v31,2026-09-28
+2026-08-23,2601,"China Pacific Insurance (Group) Co., Ltd. Class H",interesting,v31,2026-09-28
+2026-08-23,263750,PearlAbyss Corp.,avoid,v31,2026-09-28
+2026-08-23,264450,Ubiquoss Inc.,buy,v31,2026-09-28
+2026-08-23,281820,"KCTech Co., Ltd.",monitor,v31,2026-09-28
+2026-08-23,322000,HD HYUNDAI ENERGY SOLUTIONS CO. LTD.,avoid,v31,2026-09-28
+2026-08-23,3306,JNBY Design Limited,buy,v31,2026-09-28
+2026-08-23,3393,Wasion Holdings Limited,interesting,v31,2026-09-28
+2026-08-23,3600,Modern Dental Group Limited,interesting,v31,2026-09-28
+2026-08-23,3679,"ZIGExN Co., Ltd.",buy,v31,2026-09-28
+2026-08-23,376300,"Dear U Co., Ltd.",interesting,v31,2026-09-28
+2026-08-23,382800,"GnBS eco Co.,Ltd",monitor,v31,2026-09-28
+2026-08-23,383220,"F&F Co., Ltd.",buy,v31,2026-09-28
+2026-08-23,3880,"Medtide, Inc. Class H",monitor,v31,2026-09-28
+2026-08-23,389260,"Daemyoung Energy Co., Ltd.",speculative,v31,2026-09-28
+2026-08-23,3993,CMOC Group Limited (Class H),monitor,v31,2026-09-28
+2026-08-23,3998,Bosideng International Holdings Limited,interesting,v31,2026-09-28
+2026-08-23,4021,Nissan Chemical Corporation,interesting,v31,2026-09-28
+2026-08-23,445180,"Purit Co., Ltd.",interesting,v31,2026-09-28
+2026-08-23,4503,Astellas Pharma Inc.,monitor,v31,2026-09-28
+2026-08-23,4506,"Sumitomo Pharma Co., Ltd.",speculative,v31,2026-09-28
+2026-08-23,461300,i-Scream Media,strong_buy,v31,2026-09-28
+2026-08-23,5076,INFRONEER Holdings Inc.,monitor,v31,2026-09-28
+2026-08-23,6693,Chifeng Jilong Gold Mining Group Limited,speculative,v31,2026-09-28
+2026-08-23,7003,"Mitsui E&S Holdings Co., Ltd.",monitor,v31,2026-09-28
+2026-08-23,9636,JF SmartInvest Holdings Ltd,interesting,v31,2026-09-28
+2026-08-23,9911,Newborn Town Inc.,buy,v31,2026-09-28
+2026-08-23,AAGIY,AIA Group Limited (ADR),interesting,v31,2026-09-28
+2026-08-23,AAIGF,AIA Group Limited,interesting,v31,2026-09-28
+2026-08-23,ALKEF,Alkane Resources Ltd,speculative,v31,2026-09-28
+2026-08-23,ALPMY,Astellas Pharma Inc. (unsponsored ADR),monitor,v31,2026-09-28
+2026-08-23,AMG,"Affiliated Managers Group, Inc.",monitor,v31,2026-09-28
+2026-08-23,ANGPY,Valterra Platinum Limited,speculative,v31,2026-09-28
+2026-08-23,BCG,Baltic Classifieds Group plc,buy,v31,2026-09-28
+2026-08-23,BOLSY,"B3 S.A. - Brasil, Bolsa, Balcao (Unsponsored ADR)",interesting,v31,2026-09-28
+2026-08-23,BSX,Boston Scientific Corporation,monitor,v31,2026-09-28
+2026-08-23,CENX,Century Aluminum Company,speculative,v31,2026-09-28
+2026-08-23,DOFG,DOF Group ASA,monitor,v31,2026-09-28
+2026-08-23,DRD,DRDGOLD Ltd Sponsored ADR,interesting,v31,2026-09-28
+2026-08-23,DUOL,"Duolingo, Inc.",speculative,v31,2026-09-28
+2026-08-23,EDV,Endeavour Mining PLC,speculative,v31,2026-09-28
+2026-08-23,EVR,Evercore Inc. Class A,monitor,v31,2026-09-28
+2026-08-23,FHI,"Federated Hermes, Inc. Class B",interesting,v31,2026-09-28
+2026-08-23,FSG,Foresight Group Holdings Limited,interesting,v31,2026-09-28
+2026-08-23,GFI,Gold Fields Limited Sponsored ADR,speculative,v31,2026-09-28
+2026-08-23,HLNE,Hamilton Lane Incorporated Class A,interesting,v31,2026-09-28
+2026-08-23,HLUN_A,H. Lundbeck A/S Class A,monitor,v31,2026-09-28
+2026-08-23,IA,"Innovative Solutions and Support, Inc. (rebranded Innovative Aerosystems, fost ISSC)",interesting,v31,2026-09-28
+2026-08-23,IHP,IntegraFin Holdings plc,interesting,v31,2026-09-28
+2026-08-23,INCY,Incyte Corporation,monitor,v31,2026-09-28
+2026-08-23,ITRN,Ituran Location and Control Ltd.,interesting,v31,2026-09-28
+2026-08-23,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
+2026-08-23,KGH,KGHM Polska Miedz S.A.,speculative,v31,2026-09-28
+2026-08-23,LSE:RIO,Rio Tinto plc,speculative,v31,2026-09-28
+2026-08-23,MCRI,"Monarch Casino & Resort, Inc.",monitor,v31,2026-09-28
+2026-08-23,MLI,"Mueller Industries, Inc.",interesting,v31,2026-09-28
+2026-08-23,NELLY,Nelly Group AB (publ),monitor,v31,2026-09-28
+2026-08-23,NXPI,NXP Semiconductors N.V.,monitor,v31,2026-09-28
+2026-08-23,NYSE:RIO,Rio Tinto plc Sponsored ADR,monitor,v31,2026-09-28
+2026-08-23,ONON,On Holding AG,monitor,v31,2026-09-28
+2026-08-23,PDEX,"Pro-Dex, Inc.",interesting,v31,2026-09-28
+2026-08-23,PGH,Personal Group Holdings Plc,monitor,v31,2026-09-28
+2026-08-23,PLX,"Protalix BioTherapeutics, Inc.",avoid,v31,2026-09-28
+2026-08-23,POLR,Polar Capital Holdings plc,monitor,v31,2026-09-28
+2026-08-23,PRI,"Primerica, Inc.",interesting,v31,2026-09-28
+2026-08-23,RJF,"Raymond James Financial, Inc.",monitor,v31,2026-09-28
+2026-08-23,SCZM,Santacruz Silver Mining Ltd.,speculative,v31,2026-09-28
+2026-08-23,SDR,Schroders plc,speculative,v31,2026-09-28
+2026-08-23,SQM,Sociedad Química y Minera de Chile S.A.,monitor,v31,2026-09-28
+2026-08-23,SSD,"Simpson Manufacturing Co., Inc.",interesting,v31,2026-09-28
+2026-08-23,STORY_B,Storytel AB Class B,monitor,v31,2026-09-28
+2026-08-23,TBPH,"Theravance Biopharma, Inc.",speculative,v31,2026-09-28
+2026-08-23,UNI,Unipol Assicurazioni S.p.A.,buy,v31,2026-09-28
+2026-08-23,VALT,Valterra Platinum Limited,speculative,v31,2026-09-28
+2026-08-23,VH2,Friedrich Vorwerk Group SE,buy,v31,2026-09-28
+2026-08-23,WDOFF,Wesdome Gold Mines Ltd.,monitor,v31,2026-09-28
+2026-08-23,ZIJMF,"Zijin Mining Group Co., Ltd. (H shares, OTC ADR-equiv.)",monitor,v31,2026-09-28
+2026-08-24,003350,"Hankook Cosmetics Manufacturing Co., Ltd.",interesting,v31,2026-09-28
+2026-08-24,030190,"NICE Information Service Co., Ltd.",buy,v31,2026-09-28
+2026-08-24,036620,GAMSUNG Corporation,interesting,v31,2026-09-28
+2026-08-24,052400,"KONA I CO., LTD.",interesting,v31,2026-09-28
+2026-08-24,064850,FnGuide Inc.,monitor,v31,2026-09-28
+2026-08-24,082920,"Vitzrocell Co., Ltd.",monitor,v31,2026-09-28
+2026-08-24,098070,"Hantech Co., Ltd.",monitor,v31,2026-09-28
+2026-08-24,110990,DIT Corp.,monitor,v31,2026-09-28
+2026-08-24,1318,"Mao Geping Cosmetics Co., Ltd. Class H",interesting,v31,2026-09-28
+2026-08-24,264450,Ubiquoss Inc.,interesting,v31,2026-09-28
+2026-08-24,3306,JNBY Design Limited,interesting,v31,2026-09-28
+2026-08-24,3600,Modern Dental Group Limited,buy,v31,2026-09-28
+2026-08-24,3679,"ZIGExN Co., Ltd.",buy,v31,2026-09-28
+2026-08-24,383220,"F&F Co., Ltd.",monitor,v31,2026-09-28
+2026-08-24,9911,Newborn Town Inc.,interesting,v31,2026-09-28
+2026-08-24,AVARDA,Avarda Bank AB (publ),interesting,v31,2026-09-28
+2026-08-24,BCG,Baltic Classifieds Group plc,interesting,v31,2026-09-28
+2026-08-24,CAPD,Capital Limited,monitor,v31,2026-09-28
+2026-08-24,IHP,IntegraFin Holdings plc,monitor,v31,2026-09-28
+2026-08-24,PDEX,"Pro-Dex, Inc.",monitor,v31,2026-09-28
+2026-08-25,098120,"Micro Contact Solution Co., Ltd.",speculative,v31,2026-09-28
+2026-08-25,2507,Cirrus Aircraft Limited,interesting,v31,2026-09-28
+2026-08-25,3393,Wasion Holdings Limited,speculative,v31,2026-09-28
+2026-08-25,445180,"Purit Co., Ltd.",monitor,v31,2026-09-28
+2026-08-25,FHI,"Federated Hermes, Inc. Class B",monitor,v31,2026-09-28
+2026-08-25,FLEX,Flex Ltd.,speculative,v31,2026-09-28
+2026-08-25,FSG,Foresight Group Holdings Limited,monitor,v31,2026-09-28
+2026-08-25,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
+2026-08-25,THXPF,Thor Explorations Ltd.,monitor,gbl,2026-09-28
+2026-08-26,0Q6M,Unipol Assicurazioni S.p.A.,strong_buy,v31,2026-09-28
+2026-08-26,9981,"Shenzhen Woer Heat-Shrinkable Material Co., Ltd.",interesting,gbl,2026-09-28
+2026-08-26,CAAP,Corporacion America Airports S.A.,monitor,v31,2026-09-28
+2026-08-26,INTU,Intuit Inc.,monitor,v31,2026-09-28
+2026-08-26,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
+2026-08-26,MOWI,Mowi ASA,interesting,v31,2026-09-28
+2026-08-26,THXPF,Thor Explorations Ltd.,monitor,gbl,2026-09-28
+2026-08-26,UCB,UCB S.A.,monitor,v31,2026-09-28
+2026-08-27,0NC6,"Investor AB (publ), Class B",interesting,v31,2026-09-28
+2026-08-27,0Q6M,Unipol Assicurazioni S.p.A.,interesting,v31,2026-09-28
+2026-08-27,0TXW,Perseus Mining Limited,speculative,v31,2026-09-28
+2026-08-27,9981,"Shenzhen Woer Heat-Shrinkable Material Co., Ltd.",interesting,gbl,2026-09-28
+2026-08-27,CAAP,Corporacion America Airports S.A.,monitor,v31,2026-09-28
+2026-08-27,CEPU,Central Puerto S.A.,interesting,v31,2026-09-28
+2026-08-27,ENGI,Engie SA,monitor,v31,2026-09-28
+2026-08-27,HLUN_B,H. Lundbeck A/S clasa B,monitor,v31,2026-09-28
+2026-08-27,JCH,"Jack Henry & Associates, Inc.",monitor,v31,2026-09-28
+2026-08-27,ONE,One United Properties S.A.,speculative,v31,2026-09-28
+2026-08-27,THG,"The Hanover Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-08-27,UNI,Unipol Assicurazioni S.p.A.,interesting,v31,2026-09-28
+2026-08-28,0175,Geely Automobile Holdings Limited,monitor,v31,2026-09-28
+2026-08-28,050890,"SOLiD, Inc.",speculative,v31,2026-09-28
+2026-08-28,064350,Hyundai Rotem Company,monitor,v31,2026-09-28
+2026-08-28,100840,"SNT Energy Co., Ltd.",monitor,v31,2026-09-28
+2026-08-28,2020,ANTA Sports Products Ltd,buy,gbl,2026-09-28
+2026-08-28,2145,"Shanghai Chicmax Cosmetic Co., Ltd. Class H",monitor,v31,2026-09-28
+2026-08-28,2555,"Sichuan Baicha Baidao Industrial Co., Ltd.",monitor,v31,2026-09-28
+2026-08-28,2601,"China Pacific Insurance (Group) Co., Ltd. Class H",interesting,v31,2026-09-28
+2026-08-28,2628,China Life Insurance Company Limited,monitor,v31,2026-09-28
+2026-08-28,376300,"Dear U Co., Ltd.",monitor,v31,2026-09-28
+2026-08-28,3983,"oRo Co., Ltd.",buy,v31,2026-09-28
+2026-08-28,CAAP,Corporacion America Airports S.A.,monitor,v31,2026-09-28
+2026-08-28,HLUN_B,H. Lundbeck A/S clasa B,monitor,v31,2026-09-28
+2026-08-28,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
+2026-08-28,THXPF,Thor Explorations Ltd.,monitor,gbl,2026-09-28
+2026-08-28,WTM,"White Mountains Insurance Group, Ltd.",monitor,v31,2026-09-28
+2026-08-29,9981,"Shenzhen Woer Heat-Shrinkable Material Co., Ltd.",buy,v31,2026-09-28
+2026-08-29,ECO,Okeanis Eco Tankers Corp.,speculative,v31,2026-09-28
+2026-08-29,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
+2026-08-29,MOWI,Mowi ASA,monitor,v31,2026-09-28
+2026-08-29,RR,Rolls-Royce Holdings plc,monitor,v31,2026-09-28
+2026-08-29,THXPF,Thor Explorations Ltd.,monitor,gbl,2026-09-28
+2026-08-29,TKA,thyssenkrupp AG,avoid,v31,2026-09-28
+2026-08-29,TRMD,TORM plc Class A,monitor,v31,2026-09-28
+2026-08-29,UCB,UCB S.A.,monitor,v31,2026-09-28
+2026-08-29,ZM,"Zoom Video Communications, Inc.",interesting,v31,2026-09-28
+2026-08-30,9981,"Shenzhen Woer Heat-Shrinkable Material Co., Ltd.",monitor,v31,2026-09-28
+2026-08-30,DECK,Deckers Outdoor Corporation,buy,v31,2026-09-28
+2026-08-30,HAFN,Hafnia Limited,speculative,v31,2026-09-28
+2026-08-30,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
+2026-08-30,MAKO,Mako Mining Corp.,monitor,gbl,2026-09-28
+2026-08-30,NAT,Nordic American Tankers Limited,speculative,v31,2026-09-28
+2026-08-30,THXPF,Thor Explorations Ltd.,monitor,gbl,2026-09-28
+2026-08-30,ZM,"Zoom Video Communications, Inc.",speculative,v31,2026-09-28
+2026-08-31,CBNK,"Capital Bancorp, Inc.",interesting,v31,2026-09-28
+2026-08-31,EL,Societatea Energetica Electrica S.A.,monitor,v31,2026-09-28
+2026-08-31,GFS,Semiconductoare – GlobalFoundries,speculative,v31,2026-09-28
+2026-08-31,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
+2026-08-31,LRCX,Lam Research Corporation,monitor,v31,2026-09-28
+2026-08-31,MAKO,Mako Mining Corp.,speculative,v31,2026-09-28
+2026-08-31,NAT,Nordic American Tankers Limited,speculative,v31,2026-09-28
+2026-08-31,NBN,Northeast Bank,interesting,v31,2026-09-28
+2026-08-31,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
+2026-08-31,RGTI,Quantum Computing – Rigetti (NASDAQ),avoid,v31,2026-09-28
+2026-08-31,THX,Thor Explorations Ltd.,monitor,v31,2026-09-28
+2026-08-31,THXPF,Thor Explorations Ltd.,monitor,v31,2026-09-28
+2026-08-31,TRMD,TORM plc Class A,interesting,import,2026-09-28
+2026-09-01,2020,ANTA Sports Products Ltd,buy,v31,2026-09-28
+2026-09-01,ASIC,Ategrity Specialty Insurance Co Holdings,monitor,v31,2026-09-28
+2026-09-01,CMTV,Community Bancorp.,interesting,v31,2026-09-28
+2026-09-01,ELMD,"Electromed, Inc.",interesting,v31,2026-09-28
+2026-09-01,GFS,Semiconductoare – GlobalFoundries,speculative,v31,2026-09-28
+2026-09-01,META,Meta Platforms Inc,interesting,v31,2026-09-28
+2026-09-01,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
+2026-09-01,RGTI,Quantum Computing – Rigetti (NASDAQ),avoid,v31,2026-09-28
+2026-09-01,TLV,Banca Transilvania S.A.,interesting,v31,2026-09-28
+2026-09-02,0NZT,UCB SA,buy,v31,2026-09-28
+2026-09-02,0OAW,Mowi ASA,monitor,v31,2026-09-28
+2026-09-02,0Q99,ageas SA/NV,buy,import,2026-09-28
+2026-09-02,2458,Gala Technology Holding Limited,buy,import,2026-09-28
+2026-09-02,3316,Binjiang Service Group,strong_buy,import,2026-09-28
+2026-09-02,AYI,"Acuity Brands, Inc.",monitor,v31,2026-09-28
+2026-09-02,CB,Chubb Limited,interesting,v31,2026-09-28
+2026-09-02,DECK,Deckers Outdoor Corporation,interesting,v31,2026-09-28
+2026-09-02,FAF,First American Financial Corporation,monitor,v31,2026-09-28
+2026-09-02,GCBC,"Greene County Bancorp, Inc.",interesting,v31,2026-09-28
+2026-09-02,GFS,Semiconductoare – GlobalFoundries,speculative,v31,2026-09-28
+2026-09-02,GGGOF,Golconda Gold Ltd,speculative,v31,2026-09-28
+2026-09-02,HG,"Hamilton Insurance Group, Ltd.",monitor,v31,2026-09-28
+2026-09-02,MOWI,Mowi ASA,monitor,v31,2026-09-28
+2026-09-02,NRIM,"Northrim BanCorp, Inc.",interesting,v31,2026-09-28
+2026-09-02,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
+2026-09-02,RGTI,Quantum Computing – Rigetti (NASDAQ),avoid,v31,2026-09-28
+2026-09-02,TRMD,TORM plc Class A,monitor,v31,2026-09-28
+2026-09-03,2273,Gushengtang Holdings,monitor,v31,2026-09-28
+2026-09-03,2458,Gala Technology Holding Limited,interesting,v31,2026-09-28
+2026-09-03,3316,Binjiang Service Group,buy,v31,2026-09-28
+2026-09-03,AFL,Aflac Incorporated,monitor,v31,2026-09-28
+2026-09-03,AXS,AXIS Capital Holdings Limited,interesting,v31,2026-09-28
+2026-09-03,CRN,Cairn Homes plc,interesting,v31,2026-09-28
+2026-09-03,DLO,DLocal Limited,monitor,v31,2026-09-28
+2026-09-03,FSBC,Five Star Bancorp,monitor,v31,2026-09-28
+2026-09-03,GFS,Semiconductoare – GlobalFoundries,speculative,v31,2026-09-28
+2026-09-03,IMP,Impact Developer & Contractor S.A.,speculative,v31,2026-09-28
+2026-09-03,INSP,"Inspire Medical Systems, Inc.",avoid,v31,2026-09-28
+2026-09-03,INTU,Intuit Inc.,interesting,v31,2026-09-28
+2026-09-03,NMIH,"NMI Holdings, Inc.",interesting,v31,2026-09-28
+2026-09-03,PDD,PDD Holdings Inc.,monitor,v31,2026-09-28
+2026-09-03,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
+2026-09-03,REZI,"Resideo Technologies, Inc.",speculative,v31,2026-09-28
+2026-09-03,RGTI,Quantum Computing – Rigetti (NASDAQ),avoid,v31,2026-09-28
+2026-09-03,THX,Thor Explorations Ltd.,interesting,v31,2026-09-28
+2026-09-04,0Q99,ageas SA/NV,monitor,v31,2026-09-28
+2026-09-04,1837,Natural Food International Holding Limited,buy,v31,2026-09-28
+2026-09-04,CGAU,Centerra Gold Inc.,speculative,v31,2026-09-28
+2026-09-04,CINF,Cincinnati Financial Corporation,speculative,v31,2026-09-28
+2026-09-04,DN,DN Agrar Group S.A.,speculative,v31,2026-09-28
+2026-09-04,ELMD,"Electromed, Inc.",monitor,v31,2026-09-28
+2026-09-04,ERO,Ero Copper Corp.,speculative,v31,2026-09-28
+2026-09-04,ESEA,Euroseas Ltd.,monitor,v31,2026-09-28
+2026-09-04,GOOGL,Alphabet Inc.,monitor,v31,2026-09-28
+2026-09-04,HONA,Honeywell Aerospace Inc.,speculative,v31,2026-09-28
+2026-09-04,KINS,"Kingstone Companies, Inc.",monitor,v31,2026-09-28
+2026-09-04,NMIH,"NMI Holdings, Inc.",interesting,v31,2026-09-28
+2026-09-04,NPSNY,Naspers Limited,interesting,import,2026-09-28
+2026-09-04,NVDA,NVIDIA Corporation,monitor,v31,2026-09-28
+2026-09-04,ORI,Old Republic International Corporation,speculative,v31,2026-09-28
+2026-09-04,REX,REX American Resources Corporation,interesting,import,2026-09-28
+2026-09-04,SKWD,"Skyward Specialty Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-09-04,SNN,S.N. Nuclearelectrica S.A.,monitor,v31,2026-09-28
+2026-09-04,SPNT,SiriusPoint Ltd.,speculative,v31,2026-09-28
+2026-09-04,SRB,Serabi Gold plc,monitor,v31,2026-09-28
+2026-09-04,UNTY,"Unity Bancorp, Inc.",interesting,v31,2026-09-28
+2026-09-04,UVE,"Universal Insurance Holdings, Inc.",interesting,v31,2026-09-28
+2026-09-05,1681,Consun Pharmaceutical Group Limited,buy,v31,2026-09-28
+2026-09-05,AFYA,Afya Limited,monitor,v31,2026-09-28
+2026-09-05,BLCO,Bausch + Lomb Corporation,avoid,v31,2026-09-28
+2026-09-05,GFS,Semiconductoare – GlobalFoundries,speculative,v31,2026-09-28
+2026-09-05,HCI,"HCI Group, Inc.",monitor,v31,2026-09-28
+2026-09-05,HIG,"The Hartford Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-09-05,PRDO,Perdoceo Education Corporation,interesting,v31,2026-09-28
+2026-09-05,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
+2026-09-05,RGTI,Quantum Computing – Rigetti (NASDAQ),avoid,v31,2026-09-28
+2026-09-06,000990,DB HiTek Co. LTD,monitor,v31,2026-09-28
+2026-09-06,001060,JW Pharmaceutical Corp. (JW중외제약),buy,v31,2026-09-28
+2026-09-06,003350,"Hankook Cosmetics Manufacturing Co., Ltd.",interesting,v31,2026-09-28
+2026-09-06,003720,"Samyoung Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,005690,"Pharmicell Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,005930,"Samsung Electronics Co., Ltd.",speculative,v31,2026-09-28
+2026-09-06,005935,Samsung Electronics Co Ltd Pfd Non-Voting,monitor,v31,2026-09-28
+2026-09-06,009450,"Kyung Dong Navien Co., Ltd.",interesting,v31,2026-09-28
+2026-09-06,0175,Geely Automobile Holdings Limited,monitor,v31,2026-09-28
+2026-09-06,017960,"Hankuk Carbon Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,023160,TK Corporation (Tae Kwang),monitor,v31,2026-09-28
+2026-09-06,025560,Mirae Corporation,speculative,v31,2026-09-28
+2026-09-06,030190,"NICE Information Service Co., Ltd.",buy,v31,2026-09-28
+2026-09-06,033780,KT&G Corporation,monitor,v31,2026-09-28
+2026-09-06,036620,GAMSUNG Corporation,interesting,v31,2026-09-28
+2026-09-06,041830,"InBody Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,050890,"SOLiD, Inc.",speculative,v31,2026-09-28
+2026-09-06,052400,"KONA I CO., LTD.",interesting,v31,2026-09-28
+2026-09-06,064350,Hyundai Rotem Company,monitor,v31,2026-09-28
+2026-09-06,064850,FnGuide Inc.,monitor,v31,2026-09-28
+2026-09-06,071970,"HD-Hyundai Marine Engine Co., Ltd.",speculative,v31,2026-09-28
+2026-09-06,082920,"Vitzrocell Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,083450,"Global Standard Technology Co., Ltd. (GST)",monitor,v31,2026-09-28
+2026-09-06,092730,"NeoPharm Co., Ltd.",buy,v31,2026-09-28
+2026-09-06,098070,"Hantech Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,098120,"Micro Contact Solution Co., Ltd.",speculative,v31,2026-09-28
+2026-09-06,0NC6,"Investor AB (publ), Class B",interesting,v31,2026-09-28
+2026-09-06,0ND5,H. Lundbeck A/S Class B,interesting,v31,2026-09-28
+2026-09-06,0NZT,UCB SA,monitor,v31,2026-09-28
+2026-09-06,0OAW,Mowi ASA,monitor,v31,2026-09-28
+2026-09-06,0Q6M,Unipol Assicurazioni S.p.A.,interesting,v31,2026-09-28
+2026-09-06,0Q99,ageas SA/NV,monitor,v31,2026-09-28
+2026-09-06,0TXW,Perseus Mining Limited,speculative,v31,2026-09-28
+2026-09-06,0YAL,Boliden AB (publ),interesting,v31,2026-09-28
+2026-09-06,100120,"Vieworks Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,100840,"SNT Energy Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,110990,DIT Corp.,monitor,v31,2026-09-28
+2026-09-06,1318,"Mao Geping Cosmetics Co., Ltd. Class H",interesting,v31,2026-09-28
+2026-09-06,1651,Precision Tsugami (China) Corporation Limited,monitor,v31,2026-09-28
+2026-09-06,1681,Consun Pharmaceutical Group Limited,buy,v31,2026-09-28
+2026-09-06,1712,Dragon Mining Limited,speculative,v31,2026-09-28
+2026-09-06,179290,"M.I.TECH Co., Ltd",interesting,v31,2026-09-28
+2026-09-06,1837,Natural Food International Holding Limited,buy,v31,2026-09-28
+2026-09-06,2020,ANTA Sports Products Ltd,buy,v31,2026-09-28
+2026-09-06,2099,China Gold International Resources Corp. Ltd.,speculative,v31,2026-09-28
+2026-09-06,213420,"Duk San Neolux Co.,Ltd",monitor,v31,2026-09-28
+2026-09-06,214150,CLASSYS Inc.,interesting,v31,2026-09-28
+2026-09-06,2142,HBM Holdings Ltd.,speculative,v31,2026-09-28
+2026-09-06,2145,"Shanghai Chicmax Cosmetic Co., Ltd. Class H",monitor,v31,2026-09-28
+2026-09-06,2273,Gushengtang Holdings,monitor,v31,2026-09-28
+2026-09-06,2317,Systena Corporation,interesting,v31,2026-09-28
+2026-09-06,2378,Prudential plc,monitor,v31,2026-09-28
+2026-09-06,2382,"Sunny Optical Technology (Group) Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,2400,XD Inc.,monitor,v31,2026-09-28
+2026-09-06,2458,Gala Technology Holding Limited,interesting,v31,2026-09-28
+2026-09-06,2507,Cirrus Aircraft Limited,interesting,v31,2026-09-28
+2026-09-06,2555,"Sichuan Baicha Baidao Industrial Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,2601,"China Pacific Insurance (Group) Co., Ltd. Class H",interesting,v31,2026-09-28
+2026-09-06,2628,China Life Insurance Company Limited,monitor,v31,2026-09-28
+2026-09-06,263750,PearlAbyss Corp.,avoid,v31,2026-09-28
+2026-09-06,264450,Ubiquoss Inc.,interesting,v31,2026-09-28
+2026-09-06,281820,"KCTech Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,322000,HD HYUNDAI ENERGY SOLUTIONS CO. LTD.,avoid,v31,2026-09-28
+2026-09-06,3306,JNBY Design Limited,interesting,v31,2026-09-28
+2026-09-06,3316,Binjiang Service Group,buy,v31,2026-09-28
+2026-09-06,3393,Wasion Holdings Limited,speculative,v31,2026-09-28
+2026-09-06,3600,Modern Dental Group Limited,buy,v31,2026-09-28
+2026-09-06,3679,"ZIGExN Co., Ltd.",buy,v31,2026-09-28
+2026-09-06,376300,"Dear U Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,382800,"GnBS eco Co.,Ltd",monitor,v31,2026-09-28
+2026-09-06,383220,"F&F Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,3880,"Medtide, Inc. Class H",monitor,v31,2026-09-28
+2026-09-06,389260,"Daemyoung Energy Co., Ltd.",speculative,v31,2026-09-28
+2026-09-06,3983,"oRo Co., Ltd.",buy,v31,2026-09-28
+2026-09-06,3993,CMOC Group Limited (Class H),monitor,v31,2026-09-28
+2026-09-06,3998,Bosideng International Holdings Limited,interesting,v31,2026-09-28
+2026-09-06,4021,Nissan Chemical Corporation,interesting,v31,2026-09-28
+2026-09-06,4368,"Fuso Chemical Co., Ltd.",interesting,v31,2026-09-28
+2026-09-06,445180,"Purit Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,4503,Astellas Pharma Inc.,monitor,v31,2026-09-28
+2026-09-06,4506,"Sumitomo Pharma Co., Ltd.",speculative,v31,2026-09-28
+2026-09-06,461300,i-Scream Media,strong_buy,v31,2026-09-28
+2026-09-06,5076,INFRONEER Holdings Inc.,monitor,v31,2026-09-28
+2026-09-06,5334,"Niterra Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,6101,Tsugami Corporation,monitor,v31,2026-09-28
+2026-09-06,6693,Chifeng Jilong Gold Mining Group Limited,speculative,v31,2026-09-28
+2026-09-06,6750,"Elecom Co., Ltd.",buy,v31,2026-09-28
+2026-09-06,7003,"Mitsui E&S Holdings Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,9636,JF SmartInvest Holdings Ltd,interesting,v31,2026-09-28
+2026-09-06,9911,Newborn Town Inc.,interesting,v31,2026-09-28
+2026-09-06,9981,"Shenzhen Woer Heat-Shrinkable Material Co., Ltd.",monitor,v31,2026-09-28
+2026-09-06,AAGIY,AIA Group Limited (ADR),interesting,v31,2026-09-28
+2026-09-06,AAIGF,AIA Group Limited,interesting,v31,2026-09-28
+2026-09-06,AAPL,Apple Inc.,monitor,v31,2026-09-28
+2026-09-06,ACAD,ACADIA Pharmaceuticals Inc.,speculative,v31,2026-09-28
+2026-09-06,ACIC,American Coastal Insurance Corporation,monitor,v31,2026-09-28
+2026-09-06,ADIG,ADI Global Distribution Inc.,speculative,v31,2026-09-28
+2026-09-06,AEM,Alter Ego Media S.A.,monitor,v31,2026-09-28
+2026-09-06,AEP,"American Electric Power Company, Inc.",speculative,v31,2026-09-28
+2026-09-06,AFL,Aflac Incorporated,monitor,v31,2026-09-28
+2026-09-06,AFMJF,Alphamin Resources Corp.,monitor,v31,2026-09-28
+2026-09-06,AFYA,Afya Limited,monitor,v31,2026-09-28
+2026-09-06,AGI,Alamos Gold Inc.,monitor,v31,2026-09-28
+2026-09-06,ALAB,"Astera Labs, Inc.",monitor,v31,2026-09-28
+2026-09-06,ALKEF,Alkane Resources Ltd,speculative,v31,2026-09-28
+2026-09-06,ALPMY,Astellas Pharma Inc. (unsponsored ADR),monitor,v31,2026-09-28
+2026-09-06,ALTN,AltynGold Plc,monitor,v31,2026-09-28
+2026-09-06,AMAT,"Applied Materials, Inc.",interesting,v31,2026-09-28
+2026-09-06,AMG,"Affiliated Managers Group, Inc.",monitor,v31,2026-09-28
+2026-09-06,AMSC,American Superconductor Corporation,speculative,v31,2026-09-28
+2026-09-06,ANGPY,Valterra Platinum Limited,speculative,v31,2026-09-28
+2026-09-06,ANPMF,Andean Precious Metals Corp,monitor,v31,2026-09-28
+2026-09-06,ANTP,Anthropic PBC,avoid,v31,2026-09-28
+2026-09-06,ARIS,Aris Mining Corporation,speculative,v31,2026-09-28
+2026-09-06,ASC,Ardmore Shipping Corporation,monitor,v31,2026-09-28
+2026-09-06,ASIC,Ategrity Specialty Insurance Co Holdings,monitor,v31,2026-09-28
+2026-09-06,ATB,Farma – Antibiotice (BVB),avoid,v31,2026-09-28
+2026-09-06,ATYM,Atalaya Mining Copper SA,monitor,v31,2026-09-28
+2026-09-06,AUPH,Aurinia Pharmaceuticals Inc.,monitor,v31,2026-09-28
+2026-09-06,AVARDA,Avarda Bank AB (publ),interesting,v31,2026-09-28
+2026-09-06,AXS,AXIS Capital Holdings Limited,interesting,v31,2026-09-28
+2026-09-06,AYI,"Acuity Brands, Inc.",monitor,v31,2026-09-28
+2026-09-06,B,Barrick Mining Corporation,monitor,v31,2026-09-28
+2026-09-06,BCG,Baltic Classifieds Group plc,interesting,v31,2026-09-28
+2026-09-06,BLCO,Bausch + Lomb Corporation,avoid,v31,2026-09-28
+2026-09-06,BNET,Bittnet Systems SA,avoid,v31,2026-09-28
+2026-09-06,BOL,Bolloré SE,speculative,v31,2026-09-28
+2026-09-06,BOLSY,"B3 S.A. - Brasil, Bolsa, Balcao (Unsponsored ADR)",interesting,v31,2026-09-28
+2026-09-06,BOOT,"Boot Barn Holdings, Inc.",monitor,v31,2026-09-28
+2026-09-06,BRD,Banca (BVB),monitor,v31,2026-09-28
+2026-09-06,BRW,Saba Capital Income & Opportunities Fund (NYSE),monitor,rescor_dovezi,2026-09-28
+2026-09-06,BSX,Boston Scientific Corporation,monitor,v31,2026-09-28
+2026-09-06,BUCV,S.C. Bucur S.A.,monitor,v31,2026-09-28
+2026-09-06,BVN,Compania de Minas Buenaventura S.A.A.,speculative,v31,2026-09-28
+2026-09-06,BWLP,BW LPG Limited,monitor,v31,2026-09-28
+2026-09-06,CAAP,Corporacion America Airports S.A.,monitor,v31,2026-09-28
+2026-09-06,CAPD,Capital Limited,monitor,v31,2026-09-28
+2026-09-06,CARE,Retail îmbrăcăminte copii (NYSE),monitor,v31,2026-09-28
+2026-09-06,CAT,Caterpillar Inc.,monitor,v31,2026-09-28
+2026-09-06,CB,Chubb Limited,interesting,v31,2026-09-28
+2026-09-06,CBNK,"Capital Bancorp, Inc.",interesting,v31,2026-09-28
+2026-09-06,CENX,Century Aluminum Company,speculative,v31,2026-09-28
+2026-09-06,CEPU,Central Puerto S.A.,interesting,v31,2026-09-28
+2026-09-06,CF,"CF Industries Holdings, Inc.",interesting,v31,2026-09-28
+2026-09-06,CGAU,Centerra Gold Inc.,speculative,v31,2026-09-28
+2026-09-06,CHI,Fond închis obligațiuni convertibile + venit (NASDAQ),speculative,rescor_dovezi,2026-09-28
+2026-09-06,CHY,Fond închis convertibile + high-yield (NASDAQ),monitor,rescor_dovezi,2026-09-28
+2026-09-06,CINF,Cincinnati Financial Corporation,speculative,v31,2026-09-28
+2026-09-06,CMCL,Caledonia Mining Corporation PLC,monitor,v31,2026-09-28
+2026-09-06,CMTV,Community Bancorp.,interesting,v31,2026-09-28
+2026-09-06,CNC,Centene Corporation,avoid,v31,2026-09-28
+2026-09-06,CORX,"Core Scientific, Inc.",avoid,v31,2026-09-28
+2026-09-06,COTE,Hidrocarburi (BVB),speculative,v31,2026-09-28
+2026-09-06,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-09-06,CRMD,CorMedix Inc.,avoid,v31,2026-09-28
+2026-09-06,CRN,Cairn Homes plc,interesting,v31,2026-09-28
+2026-09-06,CRUS,"Cirrus Logic, Inc.",monitor,v31,2026-09-28
+2026-09-06,DAC,Danaos Corporation,interesting,v31,2026-09-28
+2026-09-06,DASTY,Dassault Systemes SE (ADR),monitor,v31,2026-09-28
+2026-09-06,DECK,Deckers Outdoor Corporation,interesting,v31,2026-09-28
+2026-09-06,DHR,Danaher Corporation,speculative,v31,2026-09-28
+2026-09-06,DHT,"DHT Holdings, Inc.",speculative,v31,2026-09-28
+2026-09-06,DIGI,Telecom (BVB),monitor,v31,2026-09-28
+2026-09-06,DLO,DLocal Limited,monitor,v31,2026-09-28
+2026-09-06,DN,DN Agrar Group S.A.,speculative,v31,2026-09-28
+2026-09-06,DOFG,DOF Group ASA,monitor,v31,2026-09-28
+2026-09-06,DPMLF,DPM Metals Inc.,monitor,v31,2026-09-28
+2026-09-06,DRD,DRDGOLD Ltd Sponsored ADR,interesting,v31,2026-09-28
+2026-09-06,DUOL,"Duolingo, Inc.",speculative,v31,2026-09-28
+2026-09-06,DVL,Develia S.A.,monitor,v31,2026-09-28
+2026-09-06,ECO,Okeanis Eco Tankers Corp.,speculative,v31,2026-09-28
+2026-09-06,EDD,Morgan Stanley EM Domestic Debt Fund (NYSE),speculative,rescor_dovezi,2026-09-28
+2026-09-06,EDV,Endeavour Mining PLC,speculative,v31,2026-09-28
+2026-09-06,EGAN,eGain Corp (NASDAQ),monitor,v31,2026-09-28
+2026-09-06,EL,Societatea Energetica Electrica S.A.,monitor,v31,2026-09-28
+2026-09-06,ELMD,"Electromed, Inc.",monitor,v31,2026-09-28
+2026-09-06,EMG,Man Group PLC,monitor,v31,2026-09-28
+2026-09-06,EMPYF,Empress Royalty Corp.,speculative,v31,2026-09-28
+2026-09-06,ENGI,Engie SA,monitor,v31,2026-09-28
+2026-09-06,ERO,Ero Copper Corp.,speculative,v31,2026-09-28
+2026-09-06,ESEA,Euroseas Ltd.,monitor,v31,2026-09-28
+2026-09-06,ETG,Fond inchis (CEF) - Eaton Vance Tax-Adv. Global Div. Income,avoid,rescor_dovezi,2026-09-28
+2026-09-06,ETOR,eToro Group Ltd.,monitor,v31,2026-09-28
+2026-09-06,EVER,"EverQuote, Inc. Class A",monitor,v31,2026-09-28
+2026-09-06,EVR,Evercore Inc. Class A,monitor,v31,2026-09-28
+2026-09-06,FAF,First American Financial Corporation,monitor,v31,2026-09-28
+2026-09-06,FFH,Fairfax Financial Holdings Limited,interesting,v31,2026-09-28
+2026-09-06,FHI,"Federated Hermes, Inc. Class B",monitor,v31,2026-09-28
+2026-09-06,FLEX,Flex Ltd.,speculative,v31,2026-09-28
+2026-09-06,FRO,Frontline plc,monitor,v31,2026-09-28
+2026-09-06,FRP,FRP Advisory Group plc,interesting,v31,2026-09-28
+2026-09-06,FRPT,Freshpet Inc,monitor,v31,2026-09-28
+2026-09-06,FSBC,Five Star Bancorp,monitor,v31,2026-09-28
+2026-09-06,FSG,Foresight Group Holdings Limited,monitor,v31,2026-09-28
+2026-09-06,FSLR,"First Solar, Inc.",interesting,v31,2026-09-28
+2026-09-06,FSV,FirstService Corporation,interesting,v31,2026-09-28
+2026-09-06,G,Genpact Limited,monitor,v31,2026-09-28
+2026-09-06,GCBC,"Greene County Bancorp, Inc.",interesting,v31,2026-09-28
+2026-09-06,GCT,"GigaCloud Technology, Inc. Class A",interesting,v31,2026-09-28
+2026-09-06,GFI,Gold Fields Limited Sponsored ADR,speculative,v31,2026-09-28
+2026-09-06,GFS,Semiconductoare – GlobalFoundries,speculative,v31,2026-09-28
+2026-09-06,GGGOF,Golconda Gold Ltd,speculative,v31,2026-09-28
+2026-09-06,GOOGL,Alphabet Inc.,monitor,v31,2026-09-28
+2026-09-06,GPW,Gielda Papierow Wartosciowych w Warszawie S.A.,monitor,v31,2026-09-28
+2026-09-06,GSL,"Global Ship Lease, Inc.",buy,v31,2026-09-28
+2026-09-06,H2O,Hidroenergie (BVB),interesting,v31,2026-09-28
+2026-09-06,HAFN,Hafnia Limited,speculative,v31,2026-09-28
+2026-09-06,HAN,Hannan Metals Ltd.,avoid,v31,2026-09-28
+2026-09-06,HANA,"Hana Microelectronics Public Co., Ltd.",speculative,v31,2026-09-28
+2026-09-06,HBM,Hudbay Minerals Inc,speculative,v31,2026-09-28
+2026-09-06,HCI,"HCI Group, Inc.",monitor,v31,2026-09-28
+2026-09-06,HG,"Hamilton Insurance Group, Ltd.",monitor,v31,2026-09-28
+2026-09-06,HIG,"The Hartford Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-09-06,HLNE,Hamilton Lane Incorporated Class A,interesting,v31,2026-09-28
+2026-09-06,HLUN_A,H. Lundbeck A/S Class A,monitor,v31,2026-09-28
+2026-09-06,HLUN_B,H. Lundbeck A/S clasa B,monitor,v31,2026-09-28
+2026-09-06,HM-B,H & M Hennes & Mauritz AB (publ),monitor,v31,2026-09-28
+2026-09-06,HONA,Honeywell Aerospace Inc.,speculative,v31,2026-09-28
+2026-09-06,IA,"Innovative Solutions and Support, Inc. (rebranded Innovative Aerosystems, fost ISSC)",interesting,v31,2026-09-28
+2026-09-06,IAG,International Consolidated Airlines Group S.A.,speculative,v31,2026-09-28
+2026-09-06,IHP,IntegraFin Holdings plc,monitor,v31,2026-09-28
+2026-09-06,IMP,Impact Developer & Contractor S.A.,speculative,v31,2026-09-28
+2026-09-06,INCY,Incyte Corporation,monitor,v31,2026-09-28
+2026-09-06,INDV,"Indivior Pharmaceuticals, Inc.",monitor,v31,2026-09-28
+2026-09-06,INSP,"Inspire Medical Systems, Inc.",avoid,v31,2026-09-28
+2026-09-06,INSW,Transport maritim petrol - International Seaways (NYSE),speculative,v31,2026-09-28
+2026-09-06,INTU,Intuit Inc.,interesting,v31,2026-09-28
+2026-09-06,INVA,"Innoviva, Inc.",monitor,v31,2026-09-28
+2026-09-06,ITRN,Ituran Location and Control Ltd.,interesting,v31,2026-09-28
+2026-09-06,JAZZ,Jazz Pharmaceuticals plc,speculative,v31,2026-09-28
+2026-09-06,JCH,"Jack Henry & Associates, Inc.",monitor,v31,2026-09-28
+2026-09-06,JEGI,JPMorgan European Growth & Income plc,interesting,rescor_dovezi,2026-09-28
+2026-09-06,JFIN,Jiayin Group (NASDAQ ADR),avoid,v31,2026-09-28
+2026-09-06,JHG,Asset Management – Janus Henderson,speculative,v31,2026-09-28
+2026-09-06,JKHY,"Jack Henry & Associates, Inc.",interesting,v31,2026-09-28
+2026-09-06,JNJ,Johnson & Johnson,monitor,v31,2026-09-28
+2026-09-06,KGC,Kinross Gold Corporation,speculative,v31,2026-09-28
+2026-09-06,KGH,KGHM Polska Miedz S.A.,speculative,v31,2026-09-28
+2026-09-06,KINS,"Kingstone Companies, Inc.",monitor,v31,2026-09-28
+2026-09-06,LAC,Litiu Mining – Lithium Americas (NYSE),avoid,rescor_dovezi,2026-09-28
+2026-09-06,LBW,Lubawa S.A.,interesting,v31,2026-09-28
+2026-09-06,LLY,Eli Lilly and Company,interesting,v31,2026-09-28
+2026-09-06,LONG,Longshield Investment Group (BVB),speculative,rescor_dovezi,2026-09-28
+2026-09-06,LPG,Dorian LPG Ltd.,monitor,v31,2026-09-28
+2026-09-06,LRCX,Lam Research Corporation,monitor,v31,2026-09-28
+2026-09-06,LSE:RIO,Rio Tinto plc,speculative,v31,2026-09-28
+2026-09-06,M,Med Life S.A.,avoid,v31,2026-09-28
+2026-09-06,MAIR,Madison Air Solutions Corporation,speculative,v31,2026-09-28
+2026-09-06,MAKO,Mako Mining Corp.,speculative,v31,2026-09-28
+2026-09-06,MC,"LVMH Moët Hennessy - Louis Vuitton, SE",monitor,v31,2026-09-28
+2026-09-06,MCRI,"Monarch Casino & Resort, Inc.",monitor,v31,2026-09-28
+2026-09-06,META,Meta Platforms Inc,interesting,v31,2026-09-28
+2026-09-06,MKC,Condimente – McCormick (NYSE),monitor,v31,2026-09-28
+2026-09-06,MLI,"Mueller Industries, Inc.",interesting,v31,2026-09-28
+2026-09-06,MMTMF,Monument Mining Limited,monitor,v31,2026-09-28
+2026-09-06,MOWI,Mowi ASA,monitor,v31,2026-09-28
+2026-09-06,MRNA,Biotehnologie – Moderna (NASDAQ),avoid,v31,2026-09-28
+2026-09-06,MU,"Micron Technology, Inc.",speculative,v31,2026-09-28
+2026-09-06,MWA,"Mueller Water Products, Inc.",interesting,v31,2026-09-28
+2026-09-06,NAT,Nordic American Tankers Limited,speculative,v31,2026-09-28
+2026-09-06,NBN,Northeast Bank,interesting,v31,2026-09-28
+2026-09-06,NCV,Virtus Convertible & Income Fund (NYSE),speculative,rescor_dovezi,2026-09-28
+2026-09-06,NCZ,Virtus Convertible & Income Fund II (NYSE),speculative,rescor_dovezi,2026-09-28
+2026-09-06,NELLY,Nelly Group AB (publ),monitor,v31,2026-09-28
+2026-09-06,NEM,Newmont Corporation,speculative,v31,2026-09-28
+2026-09-06,NMAI,Nuveen Multi-Asset Income Fund (NYSE),speculative,rescor_dovezi,2026-09-28
+2026-09-06,NMIH,"NMI Holdings, Inc.",interesting,v31,2026-09-28
+2026-09-06,NPSNY,Naspers Limited,interesting,rescor_dovezi,2026-09-28
+2026-09-06,NRIM,"Northrim BanCorp, Inc.",interesting,v31,2026-09-28
+2026-09-06,NUTX,Nutex Health Inc.,speculative,v31,2026-09-28
+2026-09-06,NVDA,NVIDIA Corporation,monitor,v31,2026-09-28
+2026-09-06,NVO,Novo Nordisk A/S,monitor,v31,2026-09-28
+2026-09-06,NVR,Homebuilder Premium – NVR Inc. (NYSE),speculative,rescor_dovezi,2026-09-28
+2026-09-06,NXPI,NXP Semiconductors N.V.,monitor,v31,2026-09-28
+2026-09-06,NYSE:RIO,Rio Tinto plc Sponsored ADR,monitor,v31,2026-09-28
+2026-09-06,OBT,"Orange County Bancorp, Inc.",monitor,v31,2026-09-28
+2026-09-06,OET,Okeanis Eco Tankers Corp.,monitor,v31,2026-09-28
+2026-09-06,OGC,OceanaGold Corporation,speculative,v31,2026-09-28
+2026-09-06,ONE,One United Properties S.A.,speculative,v31,2026-09-28
+2026-09-06,ONON,On Holding AG,monitor,v31,2026-09-28
+2026-09-06,ORI,Old Republic International Corporation,speculative,v31,2026-09-28
+2026-09-06,PAAS,Pan American Silver Corp.,speculative,v31,2026-09-28
+2026-09-06,PCO,Pepco Group N.V.,speculative,v31,2026-09-28
+2026-09-06,PDD,PDD Holdings Inc.,monitor,v31,2026-09-28
+2026-09-06,PDEX,"Pro-Dex, Inc.",monitor,v31,2026-09-28
+2026-09-06,PGH,Personal Group Holdings Plc,monitor,v31,2026-09-28
+2026-09-06,PLX,"Protalix BioTherapeutics, Inc.",avoid,v31,2026-09-28
+2026-09-06,POLR,Polar Capital Holdings plc,monitor,v31,2026-09-28
+2026-09-06,PRDO,Perdoceo Education Corporation,interesting,v31,2026-09-28
+2026-09-06,PRI,"Primerica, Inc.",interesting,v31,2026-09-28
+2026-09-06,PUK,Prudential plc,interesting,v31,2026-09-28
+2026-09-06,PYPL,"PayPal Holdings, Inc.",monitor,v31,2026-09-28
+2026-09-06,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
+2026-09-06,RAMP,"LiveRamp Holdings, Inc.",speculative,v31,2026-09-28
+2026-09-06,REX,REX American Resources Corporation,interesting,rescor_dovezi,2026-09-28
+2026-09-06,REZI,"Resideo Technologies, Inc.",speculative,v31,2026-09-28
+2026-09-06,RFX,Ramsdens Holdings PLC,interesting,v31,2026-09-28
+2026-09-06,RGTI,Quantum Computing – Rigetti (NASDAQ),avoid,v31,2026-09-28
+2026-09-06,RIGL,Rigel Pharmaceuticals Inc,monitor,v31,2026-09-28
+2026-09-06,RJF,"Raymond James Financial, Inc.",monitor,v31,2026-09-28
+2026-09-06,RNL,Renault SA,speculative,v31,2026-09-28
+2026-09-06,RR,Rolls-Royce Holdings plc,monitor,v31,2026-09-28
+2026-09-06,RSG,"Republic Services, Inc.",monitor,v31,2026-09-28
+2026-09-06,SBC,SBC Medical Group Holdings Inc,speculative,v31,2026-09-28
+2026-09-06,SCZM,Santacruz Silver Mining Ltd.,speculative,v31,2026-09-28
+2026-09-06,SDR,Schroders plc,speculative,v31,2026-09-28
+2026-09-06,SF,Banca de investitii/wealth management - Stifel Financial (NYSE),speculative,v31,2026-09-28
+2026-09-06,SHOP,E-commerce Platform – Shopify (NASDAQ),monitor,rescor_dovezi,2026-09-28
+2026-09-06,SHW,The Sherwin-Williams Company,interesting,v31,2026-09-28
+2026-09-06,SKWD,"Skyward Specialty Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-09-06,SNAP,Social Media – Snap Inc. (NYSE),avoid,rescor_dovezi,2026-09-28
+2026-09-06,SNN,S.N. Nuclearelectrica S.A.,monitor,v31,2026-09-28
+2026-09-06,SPNT,SiriusPoint Ltd.,speculative,v31,2026-09-28
+2026-09-06,SPSY,Spectra Systems Corporation,monitor,v31,2026-09-28
+2026-09-06,SQM,Sociedad Química y Minera de Chile S.A.,monitor,v31,2026-09-28
+2026-09-06,SRB,Serabi Gold plc,monitor,v31,2026-09-28
+2026-09-06,SSD,"Simpson Manufacturing Co., Inc.",interesting,v31,2026-09-28
+2026-09-06,STNG,Scorpio Tankers Inc.,speculative,v31,2026-09-28
+2026-09-06,STORY_B,Storytel AB Class B,monitor,v31,2026-09-28
+2026-09-06,STRL,"Sterling Infrastructure, Inc.",monitor,v31,2026-09-28
+2026-09-06,SUNB,"Sunbelt Rentals Holdings, Inc.",speculative,v31,2026-09-28
+2026-09-06,SUPN,Supernus Pharmaceuticals Inc.,speculative,v31,2026-09-28
+2026-09-06,TBPH,"Theravance Biopharma, Inc.",speculative,v31,2026-09-28
+2026-09-06,TCOM,Trip.com Group Limited,monitor,v31,2026-09-28
+2026-09-06,TEI,Templeton Emerging Markets Income Fund (NYSE),speculative,rescor_dovezi,2026-09-28
+2026-09-06,TEL,Transport Electricitate (BVB),speculative,v31,2026-09-28
+2026-09-06,TGN,Transport Gaze (BVB) RESTRICTIONAT,monitor,v31,2026-09-28
+2026-09-06,THG,"The Hanover Insurance Group, Inc.",interesting,v31,2026-09-28
+2026-09-06,THX,Thor Explorations Ltd.,interesting,v31,2026-09-28
+2026-09-06,THXPF,Thor Explorations Ltd.,monitor,v31,2026-09-28
+2026-09-06,TILE,"Interface, Inc.",monitor,v31,2026-09-28
+2026-09-06,TKA,thyssenkrupp AG,avoid,v31,2026-09-28
+2026-09-06,TLV,Banca Transilvania S.A.,interesting,v31,2026-09-28
+2026-09-06,TMPL,TemplateMonster,avoid,v31,2026-09-28
+2026-09-06,TNK,Teekay Tankers Ltd.,speculative,v31,2026-09-28
+2026-09-06,TRMD,TORM plc Class A,monitor,v31,2026-09-28
+2026-09-06,TROW,"T. Rowe Price Group, Inc.",monitor,v31,2026-09-28
+2026-09-06,TRP,Materiale Constructii (BVB),avoid,v31,2026-09-28
+2026-09-06,TRU,TransUnion,monitor,v31,2026-09-28
+2026-09-06,TTVSY,"TOTVS S.A. (ADR nesponsorizat, primar BVMF: TOTS3)",interesting,v31,2026-09-28
+2026-09-06,UBER,"Uber Technologies, Inc.",monitor,v31,2026-09-28
+2026-09-06,UCB,UCB S.A.,monitor,v31,2026-09-28
+2026-09-06,UMC,United Microelectronics Corp.,speculative,v31,2026-09-28
+2026-09-06,UNH,UnitedHealth Group Incorporated,monitor,v31,2026-09-28
+2026-09-06,UNI,Unipol Assicurazioni S.p.A.,interesting,v31,2026-09-28
+2026-09-06,UNTY,"Unity Bancorp, Inc.",interesting,v31,2026-09-28
+2026-09-06,UPS,Logistica (NYSE),speculative,v31,2026-09-28
+2026-09-06,USAR,Rare Earth Mining – USA Rare Earth (NASDAQ),avoid,rescor_dovezi,2026-09-28
+2026-09-06,UVE,"Universal Insurance Holdings, Inc.",interesting,v31,2026-09-28
+2026-09-06,VALT,Valterra Platinum Limited,speculative,v31,2026-09-28
+2026-09-06,VCTR,"Victory Capital Holdings, Inc. Class A",interesting,v31,2026-09-28
+2026-09-06,VGNT,Versent PLC,monitor,v31,2026-09-28
+2026-09-06,VH2,Friedrich Vorwerk Group SE,buy,v31,2026-09-28
+2026-09-06,VOW,"Volkswagen AG (Xetra) — auto producător global, restructurare majoră în curs",speculative,v31,2026-09-28
+2026-09-06,VZ,Verizon Communications Inc.,monitor,v31,2026-09-28
+2026-09-06,WDOFF,Wesdome Gold Mines Ltd.,monitor,v31,2026-09-28
+2026-09-06,WINE,Purcari Wineries PCL,monitor,v31,2026-09-28
+2026-09-06,WOR,"Worthington Enterprises, Inc.",monitor,v31,2026-09-28
+2026-09-06,WTM,"White Mountains Insurance Group, Ltd.",monitor,v31,2026-09-28
+2026-09-06,XZO,"Exzeo Group, Inc.",monitor,v31,2026-09-28
+2026-09-06,ZIJMF,"Zijin Mining Group Co., Ltd. (H shares, OTC ADR-equiv.)",monitor,v31,2026-09-28
+2026-09-06,ZJK,"ZJK Industrial Co., Ltd.",speculative,v31,2026-09-28
+2026-09-06,ZM,"Zoom Video Communications, Inc.",speculative,v31,2026-09-28
+2026-09-07,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
+2026-09-07,GSL,"Global Ship Lease, Inc.",monitor,v31,2026-09-28
+2026-09-07,XZO,"Exzeo Group, Inc.",speculative,v31,2026-09-28
+2026-09-08,0MO8,SED Energy Holdings Plc,speculative,v31,2026-09-28
+2026-09-08,AFMJF,Alphamin Resources Corp.,monitor,v31,2026-09-28
+2026-09-08,CRMD,CorMedix Inc.,avoid,v31,2026-09-28
+2026-09-08,G,Genpact Limited,monitor,v31,2026-09-28
+2026-09-08,IMPUY,Impala Platinum Holdings Limited,monitor,v31,2026-09-28
+2026-09-08,INVA,"Innoviva, Inc.",monitor,v31,2026-09-28
+2026-09-08,NPSNY,Naspers Limited,monitor,v31,2026-09-28
+2026-09-08,STNG,Scorpio Tankers Inc.,speculative,v31,2026-09-28
+2026-09-09,IDR,"Idaho Strategic Resources, Inc.",speculative,v31,2026-09-28
+2026-09-09,PATH,"UiPath, Inc.",speculative,v31,2026-09-28
+2026-09-10,RELY,"Remitly Global, Inc.",speculative,v31,2026-09-28
+2026-09-11,005930,"Samsung Electronics Co., Ltd.",speculative,v31,2026-09-28
+2026-09-11,147830,"Cheryong Industrial Co., Ltd.",interesting,v31,2026-09-28
+2026-09-11,214450,"PharmaResearch Co., Ltd.",speculative,v31,2026-09-28
+2026-09-11,CNC,Centene Corporation,avoid,v31,2026-09-28
+2026-09-11,ETOR,eToro Group Ltd.,monitor,v31,2026-09-28
+2026-09-11,FLEX,Flex Ltd.,speculative,v31,2026-09-28
+2026-09-11,MAIR,Madison Air Solutions Corporation,speculative,v31,2026-09-28
+2026-09-11,MMTMF,Monument Mining Limited,speculative,v31,2026-09-28
+2026-09-11,RFX,Ramsdens Holdings PLC,monitor,v31,2026-09-28
+2026-09-11,SPSY,Spectra Systems Corporation,monitor,v31,2026-09-28
+2026-09-11,TNK,Teekay Tankers Ltd.,speculative,v31,2026-09-28
+2026-09-11,UBER,"Uber Technologies, Inc.",monitor,v31,2026-09-28
+2026-09-12,285A,Kioxia Holdings Corporation,avoid,v31,2026-09-28
+2026-09-12,BKE,"The Buckle, Inc.",interesting,v31,2026-09-28
+2026-09-12,BVN,Compania de Minas Buenaventura S.A.A.,speculative,v31,2026-09-28
+2026-09-12,CBOE,"Cboe Global Markets, Inc.",interesting,v31,2026-09-28
+2026-09-12,DAC,Danaos Corporation,interesting,v31,2026-09-28
+2026-09-12,IMPP,Imperial Petroleum Inc.,speculative,v31,2026-09-28
+2026-09-12,LPG,Dorian LPG Ltd.,speculative,v31,2026-09-28
+2026-09-12,TCOM,Trip.com Group Limited,speculative,v31,2026-09-28
+2026-09-13,BWLP,BW LPG Limited,monitor,v31,2026-09-28
+2026-09-13,IAG,International Consolidated Airlines Group S.A.,speculative,v31,2026-09-28
+2026-09-13,LBW,Lubawa S.A.,monitor,v31,2026-09-28
+2026-09-13,OGC,OceanaGold Corporation,speculative,v31,2026-09-28
+2026-09-14,001060,JW Pharmaceutical Corp. (JW중외제약),interesting,v31,2026-09-28
+2026-09-14,009450,"Kyung Dong Navien Co., Ltd.",interesting,v31,2026-09-28
+2026-09-14,1497,"Xiamen Yan Palace Bird's Nest Industry Co., Ltd.",interesting,v31,2026-09-28
+2026-09-14,179290,"M.I.TECH Co., Ltd",interesting,v31,2026-09-28
+2026-09-14,2400,XD Inc.,monitor,v31,2026-09-28
+2026-09-14,AIS,Aeris Resources Limited,speculative,v31,2026-09-28
+2026-09-15,036620,GAMSUNG Corporation,buy,v31,2026-09-28
+2026-09-15,082920,"Vitzrocell Co., Ltd.",monitor,v31,2026-09-28
+2026-09-15,461300,i-Scream Media,buy,v31,2026-09-28
+2026-09-15,ALS,Altius Minerals Corporation,avoid,v31,2026-09-28
+2026-09-15,AMI,Aurelia Metals Limited,avoid,v31,2026-09-28
+2026-09-15,BUKS,Butler National Corporation,interesting,v31,2026-09-28
+2026-09-15,CYL,Catalyst Metals Limited,speculative,v31,2026-09-28
+2026-09-15,EMR,Emerald Resources NL,monitor,v31,2026-09-28
+2026-09-15,EVN,Evolution Mining Limited,speculative,v31,2026-09-28
+2026-09-15,FVI,Fortuna Mining Corp.,speculative,v31,2026-09-28
+2026-09-15,GMD,Genesis Minerals Limited,speculative,v31,2026-09-28
+2026-09-15,ITRN,Ituran Location and Control Ltd.,interesting,v31,2026-09-28
+2026-09-15,KCN,Kingsgate Consolidated Limited,monitor,v31,2026-09-28
+2026-09-15,L1G,L1 Group Limited,monitor,v31,2026-09-28
+2026-09-15,MSA,Mineros S.A.,monitor,v31,2026-09-28
+2026-09-15,RIO,Rio Tinto Limited,monitor,v31,2026-09-28
+2026-09-15,SFR,Sandfire Resources Limited,speculative,v31,2026-09-28
+2026-09-15,TXG,Torex Gold Resources Inc.,speculative,v31,2026-09-28
+2026-09-16,003350,"Hankook Cosmetics Manufacturing Co., Ltd.",monitor,v31,2026-09-28
+2026-09-16,036620,GAMSUNG Corporation,interesting,v31,2026-09-28
+2026-09-16,092730,"NeoPharm Co., Ltd.",buy,v31,2026-09-28
+2026-09-16,ACIC,American Coastal Insurance Corporation,monitor,v31,2026-09-28
+2026-09-16,APAM,Artisan Partners Asset Management Inc,interesting,v31,2026-09-28
+2026-09-16,CLIG,City of London Investment Group PLC,interesting,v31,2026-09-28
+2026-09-16,RPL,Regal Partners Limited,monitor,v31,2026-09-28
+2026-09-16,RRL,Regis Resources Limited,monitor,v31,2026-09-28
+2026-09-16,WAF,West African Resources Limited,interesting,v31,2026-09-28
+2026-09-17,064850,FnGuide Inc.,monitor,v31,2026-09-28
+2026-09-17,082920,"Vitzrocell Co., Ltd.",monitor,v31,2026-09-28
+2026-09-17,264450,Ubiquoss Inc.,interesting,v31,2026-09-28
+2026-09-17,FIVE,"Five Below, Inc.",monitor,v31,2026-09-28
+2026-09-17,GDDY,GoDaddy Inc.,monitor,v31,2026-09-28
+2026-09-17,NBIX,"Neurocrine Biosciences, Inc.",interesting,v31,2026-09-28
+2026-09-17,RDDT,"Reddit, Inc.",speculative,v31,2026-09-28
+2026-09-17,VH2,Friedrich Vorwerk Group SE,monitor,v31,2026-09-28
+2026-09-18,064850,FnGuide Inc.,monitor,v31,2026-09-28
+2026-09-18,1093,CSPC Pharmaceutical Group Limited,interesting,v31,2026-09-28
+2026-09-18,1651,Precision Tsugami (China) Corporation Limited,interesting,v31,2026-09-28
+2026-09-18,213420,"Duk San Neolux Co.,Ltd",monitor,v31,2026-09-28
+2026-09-18,3998,Bosideng International Holdings Limited,interesting,v31,2026-09-28
+2026-09-18,APAM,Artisan Partners Asset Management Inc,monitor,v31,2026-09-28
+2026-09-18,ONE,One United Properties S.A.,avoid,v31,2026-09-28
+2026-09-18,REZI,"Resideo Technologies, Inc.",speculative,v31,2026-09-28
+2026-09-18,SLP,Sylvania Platinum Limited,interesting,v31,2026-09-28
+2026-09-19,1200,Midland Holdings Limited,monitor,v31,2026-09-28
+2026-09-19,257720,"SILICON2 Co., Ltd.",speculative,v31,2026-09-28
+2026-09-19,9985,WEILONG Delicious Global Holdings Ltd,buy,v31,2026-09-28
+2026-09-19,ASIC,Ategrity Specialty Insurance Co Holdings,monitor,v31,2026-09-28
+2026-09-19,CAAP,Corporacion America Airports S.A.,monitor,v31,2026-09-28
+2026-09-19,LECBF,Lepanto Consolidated Mining Co Class B,avoid,v31,2026-09-28
+2026-09-19,PAF,Pan African Resources PLC,monitor,v31,2026-09-28
+2026-09-20,917,Qunabox Group Limited,speculative,v31,2026-09-28
+2026-09-20,9985,WEILONG Delicious Global Holdings Ltd,buy,v31,2026-09-28
+2026-09-20,PDEX,"Pro-Dex, Inc.",monitor,v31,2026-09-28
+2026-09-21,003230,"Samyang Foods Co., Ltd.",buy,v31,2026-09-28
+2026-09-21,039200,Oscotec Inc.,speculative,v31,2026-09-28
+2026-09-21,089970,VM Inc.,speculative,v31,2026-09-28
+2026-09-21,145020,"Hugel, Inc.",buy,gbl,2026-09-28
+2026-09-21,1497,"Xiamen Yan Palace Bird's Nest Industry Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-21,260970,"S&D Co., Ltd.",buy,gbl,2026-09-28
+2026-09-21,265740,NFC Corporation,speculative,v31,2026-09-28
+2026-09-21,3989,"Sharingtechnology, Inc.",interesting,gbl,2026-09-28
+2026-09-21,AEF,Australian Ethical Investment Limited,interesting,gbl,2026-09-28
+2026-09-21,ATDRY,Autotrader Group plc (ADR nesponsorizata),interesting,gbl,2026-09-28
+2026-09-21,ATEX,Anterix Inc.,avoid,gbl,2026-09-28
+2026-09-21,BLBD,Blue Bird Corporation,interesting,gbl,2026-09-28
+2026-09-21,BLS,BLS Pharmaceuticals Limited,monitor,gbl,2026-09-28
+2026-09-21,CARG,"CarGurus, Inc. Class A",interesting,gbl,2026-09-28
+2026-09-21,DBOXF,D-BOX Technologies Inc.,interesting,gbl,2026-09-28
+2026-09-21,EXEL,"Exelixis, Inc.",monitor,gbl,2026-09-28
+2026-09-21,FML,Focus Minerals Limited,speculative,gbl,2026-09-28
+2026-09-21,FRES,Fresnillo plc,monitor,gbl,2026-09-28
+2026-09-21,GOOG,Alphabet Inc.,interesting,gbl,2026-09-28
+2026-09-21,KNTNF,"K92 Mining, Inc.",monitor,gbl,2026-09-28
+2026-09-21,KRT,"Karat Packaging, Inc.",monitor,gbl,2026-09-28
+2026-09-21,MLX,Metals X Limited,speculative,gbl,2026-09-28
+2026-09-21,NVO,Novo Nordisk A/S,monitor,gbl,2026-09-28
+2026-09-21,ORNBV,Orion Oyj,monitor,gbl,2026-09-28
+2026-09-21,TAM,Tatton Asset Management plc,buy,gbl,2026-09-28
+2026-09-21,TSPC,PT Tempo Scan Pacific Tbk,buy,gbl,2026-09-28
+2026-09-21,WAS,Wasko S.A.,monitor,gbl,2026-09-28
+2026-09-21,WGX,Westgold Resources Limited,monitor,gbl,2026-09-28
+2026-09-21,XTB,XTB S.A.,monitor,gbl,2026-09-28
+2026-09-21,ZZ-B,Zinzino AB (publ) Class B,interesting,gbl,2026-09-28
+2026-09-22,003230,"Samyang Foods Co., Ltd.",buy,gbl,2026-09-28
+2026-09-22,145020,"Hugel, Inc.",interesting,gbl,2026-09-28
+2026-09-22,326030,"SK Biopharmaceuticals Co., Ltd.",interesting,gbl,2026-09-28
+2026-09-22,5076,INFRONEER Holdings Inc.,speculative,gbl,2026-09-28
+2026-09-22,ALPMY,Astellas Pharma Inc. (unsponsored ADR),speculative,gbl,2026-09-28
+2026-09-22,ATAT,Atour Lifestyle Holdings Limited,buy,gbl,2026-09-28
+2026-09-22,ATDRY,Autotrader Group plc (ADR nesponsorizata),interesting,gbl,2026-09-28
+2026-09-22,BLBD,Blue Bird Corporation,monitor,gbl,2026-09-28
+2026-09-22,CARG,"CarGurus, Inc. Class A",interesting,gbl,2026-09-28
+2026-09-22,CF,"CF Industries Holdings, Inc.",monitor,gbl,2026-09-28
+2026-09-22,IOF,Iofina plc,interesting,gbl,2026-09-28
+2026-09-22,TAM,Tatton Asset Management plc,buy,gbl,2026-09-28
+2026-09-22,ZZ-B,Zinzino AB (publ) Class B,interesting,gbl,2026-09-28
+2026-09-23,0116,Chow Sang Sang Holdings International Limited,monitor,gbl,2026-09-28
+2026-09-23,1258,China Nonferrous Mining Corporation Limited,monitor,gbl,2026-09-28
+2026-09-23,1579,Yihai International Holding Ltd.,monitor,gbl,2026-09-28
+2026-09-23,1681,Consun Pharmaceutical Group Limited,buy,gbl,2026-09-28
+2026-09-23,AAIGF,AIA Group Limited,interesting,gbl,2026-09-28
+2026-09-23,ANPMF,Andean Precious Metals Corp,monitor,gbl,2026-09-28
+2026-09-23,AXS,AXIS Capital Holdings Limited,monitor,gbl,2026-09-28
+2026-09-23,BKE,"The Buckle, Inc.",monitor,gbl,2026-09-28
+2026-09-23,CBOE,"Cboe Global Markets, Inc.",monitor,gbl,2026-09-28
+2026-09-23,CRUS,"Cirrus Logic, Inc.",monitor,gbl,2026-09-28
+2026-09-23,EVR,Evercore Inc. Class A,monitor,gbl,2026-09-28
+2026-09-23,GCT,"GigaCloud Technology, Inc. Class A",buy,gbl,2026-09-28
+2026-09-23,GDDY,GoDaddy Inc.,monitor,gbl,2026-09-28
+2026-09-23,HIG,"The Hartford Insurance Group, Inc.",monitor,gbl,2026-09-28
+2026-09-23,HLNE,Hamilton Lane Incorporated Class A,interesting,gbl,2026-09-28
+2026-09-23,JNJ,Johnson & Johnson,monitor,gbl,2026-09-28
+2026-09-23,NBIX,"Neurocrine Biosciences, Inc.",monitor,gbl,2026-09-28
+2026-09-23,POLR,Polar Capital Holdings plc,monitor,gbl,2026-09-28
+2026-09-23,PYPL,"PayPal Holdings, Inc.",speculative,gbl,2026-09-28
+2026-09-23,THX,Thor Explorations Ltd.,monitor,gbl,2026-09-28
+2026-09-23,UNH,UnitedHealth Group Incorporated,speculative,gbl,2026-09-28
+2026-09-23,VCTR,"Victory Capital Holdings, Inc. Class A",monitor,gbl,2026-09-28
+2026-09-23,WAS,Wasko S.A.,speculative,gbl,2026-09-28
+2026-09-24,3679,"ZIGExN Co., Ltd.",interesting,gbl,2026-09-28
+2026-09-24,4368,"Fuso Chemical Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-24,9911,Newborn Town Inc.,monitor,gbl,2026-09-28
+2026-09-24,BCG,Baltic Classifieds Group plc,interesting,gbl,2026-09-28
+2026-09-25,0138,Zetrix AI Berhad (fosta MyEG Services),interesting,gbl,2026-09-28
+2026-09-25,1184,S.A.S. Dragon Holdings Limited,interesting,gbl,2026-09-28
+2026-09-25,1308,SITC International Holdings Company Limited,monitor,gbl,2026-09-28
+2026-09-25,2451,"Transcend Information, Inc.",buy,gbl,2026-09-28
+2026-09-25,2507,Cirrus Aircraft Limited,strong_buy,mecanic,2026-09-28
+2026-09-25,2816,"Union Insurance Co., Ltd. (旺旺友聯產物保險)",interesting,gbl,2026-09-28
+2026-09-25,2851,Central Reinsurance Corporation,interesting,gbl,2026-09-28
+2026-09-25,3339,Lonking Holdings Limited,buy,gbl,2026-09-28
+2026-09-25,340570,"T&L Co., Ltd.",interesting,gbl,2026-09-28
+2026-09-25,3989,"Sharingtechnology, Inc.",monitor,gbl,2026-09-28
+2026-09-25,4324,Hengyuan Refining Company Berhad,avoid,gbl,2026-09-28
+2026-09-25,445180,"Purit Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-25,453340,"Hyundai Green Food Co., Ltd",interesting,gbl,2026-09-28
+2026-09-25,5102,Guan Chong Berhad,interesting,gbl,2026-09-28
+2026-09-25,5515,"Chien Kuo Construction Co., Ltd.",interesting,gbl,2026-09-28
+2026-09-25,6718,"Aiphone Co.,Ltd.",speculative,gbl,2026-09-28
+2026-09-25,8935,"FJ NEXT Holdings Co., Ltd.",interesting,gbl,2026-09-28
+2026-09-25,9639,"Sankyo Frontier Co.,Ltd.",interesting,gbl,2026-09-28
+2026-09-25,BION,BB Biotech AG,speculative,gbl,2026-09-28
+2026-09-25,BSSR,PT Baramulti Suksessarana Tbk,speculative,gbl,2026-09-28
+2026-09-25,BVS,Bravura Solutions Limited,interesting,gbl,2026-09-28
+2026-09-25,CRCT,"Cricut, Inc.",monitor,gbl,2026-09-28
+2026-09-25,CYRE3,Cyrela Brazil Realty S.A. Empreendimentos e Participações,interesting,gbl,2026-09-28
+2026-09-25,DDI,"DoubleDown Interactive Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-25,DMAS,PT Puradelta Lestari Tbk,interesting,gbl,2026-09-28
+2026-09-25,DRW8,Drägerwerk AG & Co. KGaA (ordinare),interesting,gbl,2026-09-28
+2026-09-25,HRMY,"Harmony Biosciences Holdings, Inc.",interesting,gbl,2026-09-28
+2026-09-25,HYDRA,Hydratec Industries NV,interesting,gbl,2026-09-28
+2026-09-25,INTU,Intuit Inc.,interesting,gbl,2026-09-28
+2026-09-25,IRWD,"Ironwood Pharmaceuticals, Inc.",speculative,gbl,2026-09-28
+2026-09-25,JHSF3,JHSF Participações S.A.,buy,gbl,2026-09-28
+2026-09-25,LSIP,PT Perusahaan Perkebunan London Sumatra Indonesia Tbk,interesting,gbl,2026-09-28
+2026-09-25,MARK,PT Mark Dynamics Indonesia Tbk,monitor,gbl,2026-09-28
+2026-09-25,MLBI,PT Multi Bintang Indonesia Tbk,interesting,gbl,2026-09-28
+2026-09-25,MOUR,Moury Construct SA,buy,gbl,2026-09-28
+2026-09-25,MRD,Melcor Developments Ltd.,interesting,gbl,2026-09-28
+2026-09-25,MYX,Maywood Acquisition Corp. 2,avoid,gbl,2026-09-28
+2026-09-25,NCKL,PT Trimegah Bangun Persada Tbk (Harita Nickel),buy,gbl,2026-09-28
+2026-09-25,ORE,Orezone Gold Corporation,monitor,gbl,2026-09-28
+2026-09-25,PALI,Ronesans Gayrimenkul Yatirim A.S.,speculative,gbl,2026-09-28
+2026-09-25,PHIL,Philogen S.p.A.,monitor,gbl,2026-09-28
+2026-09-25,PSAB,PT J Resources Asia Pasifik Tbk,speculative,gbl,2026-09-28
+2026-09-25,RGYAS,Ronesans Gayrimenkul Yatirim A.S.,buy,gbl,2026-09-28
+2026-09-25,SEC,Senvest Capital Inc.,monitor,gbl,2026-09-28
+2026-09-25,SEER3,Ser Educacional S.A.,monitor,gbl,2026-09-28
+2026-09-25,SMAR,PT Sinar Mas Agro Resources and Technology Tbk,monitor,gbl,2026-09-28
+2026-09-25,SNN,S.N. Nuclearelectrica S.A.,monitor,gbl,2026-09-28
+2026-09-25,SPRC,Star Petroleum Refining Public Company Limited,speculative,gbl,2026-09-28
+2026-09-25,TINS,PT TIMAH Tbk,monitor,gbl,2026-09-28
+2026-09-25,TRMD,TORM plc Class A,speculative,gbl,2026-09-28
+2026-09-25,UNIC,PT Unggul Indah Cahaya Tbk,interesting,gbl,2026-09-28
+2026-09-25,VTRU3,Vitru Educação S.A.,buy,gbl,2026-09-28
+2026-09-25,VULC3,Vulcabras S.A.,buy,gbl,2026-09-28
+2026-09-26,003720,"Samyoung Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-26,100120,"Vieworks Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-26,200670,PT Tempo Scan Pacific Tbk,monitor,gbl,2026-09-28
+2026-09-26,214150,CLASSYS Inc.,monitor,gbl,2026-09-28
+2026-09-26,236200,Suprema Inc.,buy,gbl,2026-09-28
+2026-09-26,2382,"Sunny Optical Technology (Group) Co., Ltd.",speculative,gbl,2026-09-28
+2026-09-26,2507,Cirrus Aircraft Limited,interesting,gbl,2026-09-28
+2026-09-26,2605,Sincere Navigation Corporation,interesting,gbl,2026-09-28
+2026-09-26,3880,"Medtide, Inc. Class H",monitor,gbl,2026-09-28
+2026-09-26,445180,"Purit Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-26,4503,Astellas Pharma Inc.,speculative,gbl,2026-09-28
+2026-09-26,5511,"Te Chang Construction Co., Ltd.",buy,gbl,2026-09-28
+2026-09-26,5522,"Farglory Land Development Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-26,9636,JF SmartInvest Holdings Ltd,speculative,gbl,2026-09-28
+2026-09-26,AEM,Alter Ego Media S.A.,monitor,gbl,2026-09-28
+2026-09-26,AUTO,PT Astra Otoparts Tbk,buy,gbl,2026-09-28
+2026-09-26,BUCV,S.C. Bucur S.A.,speculative,gbl,2026-09-28
+2026-09-26,CBNK,"Capital Bancorp, Inc.",monitor,gbl,2026-09-28
+2026-09-26,CHCI,"Comstock Holding Companies, Inc. Class A",buy,gbl,2026-09-28
+2026-09-26,CMTV,Community Bancorp.,monitor,gbl,2026-09-28
+2026-09-26,CURY3,Cury Construtora e Incorporadora S.A.,interesting,gbl,2026-09-28
+2026-09-26,DASTY,Dassault Systemes SE (ADR),speculative,gbl,2026-09-28
+2026-09-26,EMG,Man Group PLC,monitor,gbl,2026-09-28
+2026-09-26,FRP,FRP Advisory Group plc,interesting,gbl,2026-09-28
+2026-09-26,GCBC,"Greene County Bancorp, Inc.",interesting,gbl,2026-09-28
+2026-09-26,OBT,"Orange County Bancorp, Inc.",monitor,gbl,2026-09-28
+2026-09-26,TEND3,Construtora Tenda S.A.,interesting,gbl,2026-09-28
+2026-09-26,THG,"The Hanover Insurance Group, Inc.",speculative,gbl,2026-09-28
+2026-09-26,VH2,Friedrich Vorwerk Group SE,monitor,gbl,2026-09-28
+2026-09-27,1184,S.A.S. Dragon Holdings Limited,monitor,gbl,2026-09-28
+2026-09-27,1579,Yihai International Holding Ltd.,monitor,gbl,2026-09-28
+2026-09-27,200670,PT Tempo Scan Pacific Tbk,interesting,gbl,2026-09-28
+2026-09-27,2027,"Ta Chen Stainless Pipe Co., Ltd.",speculative,gbl,2026-09-28
+2026-09-27,2535,"Da-Cin Construction Co., Ltd.",speculative,gbl,2026-09-28
+2026-09-27,2539,"Sakura Development Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-27,2605,Sincere Navigation Corporation,speculative,gbl,2026-09-28
+2026-09-27,2816,"Union Insurance Co., Ltd. (旺旺友聯產物保險)",monitor,gbl,2026-09-28
+2026-09-27,2851,Central Reinsurance Corporation,monitor,gbl,2026-09-28
+2026-09-27,3339,Lonking Holdings Limited,interesting,gbl,2026-09-28
+2026-09-27,453340,"Hyundai Green Food Co., Ltd",interesting,gbl,2026-09-28
+2026-09-27,5511,"Te Chang Construction Co., Ltd.",buy,gbl,2026-09-28
+2026-09-27,5522,"Farglory Land Development Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-27,6763,"Green World Fintech Service Co., Ltd. (綠界科技)",monitor,gbl,2026-09-28
+2026-09-27,8390,Jiin Yeeh Ding Enterprises Corp.,monitor,gbl,2026-09-28
+2026-09-27,ATYM,Atalaya Mining Copper SA,speculative,gbl,2026-09-28
+2026-09-27,AUTO,PT Astra Otoparts Tbk,interesting,gbl,2026-09-28
+2026-09-27,BSX,Boston Scientific Corporation,speculative,gbl,2026-09-28
+2026-09-27,BUKS,Butler National Corporation,interesting,gbl,2026-09-28
+2026-09-27,CLIG,City of London Investment Group PLC,monitor,gbl,2026-09-28
+2026-09-27,CRCT,"Cricut, Inc.",speculative,gbl,2026-09-28
+2026-09-27,CYRE3,Cyrela Brazil Realty S.A. Empreendimentos e Participações,monitor,gbl,2026-09-28
+2026-09-27,DMAS,PT Puradelta Lestari Tbk,interesting,gbl,2026-09-28
+2026-09-27,DRW8,Drägerwerk AG & Co. KGaA (ordinare),monitor,gbl,2026-09-28
+2026-09-27,DSNG,PT Dharma Satya Nusantara Tbk,interesting,gbl,2026-09-28
+2026-09-27,EVS,EVS Broadcast Equipment SA,buy,gbl,2026-09-28
+2026-09-27,HM-B,H & M Hennes & Mauritz AB (publ),speculative,gbl,2026-09-28
+2026-09-27,HRMY,"Harmony Biosciences Holdings, Inc.",monitor,gbl,2026-09-28
+2026-09-27,HYDRA,Hydratec Industries NV,monitor,gbl,2026-09-28
+2026-09-27,INCY,Incyte Corporation,speculative,gbl,2026-09-28
+2026-09-27,L1G,L1 Group Limited,speculative,gbl,2026-09-28
+2026-09-27,MILS3,"Mills Locação, Serviços e Logística S.A.",monitor,gbl,2026-09-28
+2026-09-27,MOUR,Moury Construct SA,buy,gbl,2026-09-28
+2026-09-27,MRD,Melcor Developments Ltd.,interesting,gbl,2026-09-28
+2026-09-27,NCKL,PT Trimegah Bangun Persada Tbk (Harita Nickel),monitor,gbl,2026-09-28
+2026-09-27,ONON,On Holding AG,interesting,gbl,2026-09-28
+2026-09-27,RPL,Regal Partners Limited,monitor,gbl,2026-09-28
+2026-09-27,SEER3,Ser Educacional S.A.,monitor,gbl,2026-09-28
+2026-09-27,SMSD,Samsung Electronics Co Ltd Sponsored GDR Pfd,speculative,gbl,2026-09-28
+2026-09-27,TPEX,Brighton-Best International (Taiwan) Inc.,monitor,gbl,2026-09-28
+2026-09-27,UNIC,PT Unggul Indah Cahaya Tbk,interesting,gbl,2026-09-28
+2026-09-27,VTRU3,Vitru Educação S.A.,monitor,gbl,2026-09-28
+2026-09-27,WGX,Westgold Resources Limited,speculative,gbl,2026-09-28
+2026-09-28,0138,Zetrix AI Berhad (fosta MyEG Services),avoid,gbl,2026-09-28
+2026-09-28,260970,"S&D Co., Ltd.",buy,gbl,2026-09-28
+2026-09-28,4105,TTY Biopharm Company Limited,buy,gbl,2026-09-28
+2026-09-28,5102,Guan Chong Berhad,monitor,gbl,2026-09-28
+2026-09-28,5515,"Chien Kuo Construction Co., Ltd.",interesting,gbl,2026-09-28
+2026-09-28,6741,"91APP, Inc.",buy,gbl,2026-09-28
+2026-09-28,6996,Forcelead Technology Corp,monitor,gbl,2026-09-28
+2026-09-28,7805,"QNAP Systems, Inc.",monitor,gbl,2026-09-28
+2026-09-28,8935,"FJ NEXT Holdings Co., Ltd.",buy,gbl,2026-09-28
+2026-09-28,BDNNY,Boliden AB (publ),speculative,gbl,2026-09-28
+2026-09-28,BVS,Bravura Solutions Limited,monitor,gbl,2026-09-28
+2026-09-28,DDI,"DoubleDown Interactive Co., Ltd.",monitor,gbl,2026-09-28
+2026-09-28,EQS,Equasens SA,interesting,gbl,2026-09-28
+2026-09-28,FSBC,Five Star Bancorp,monitor,gbl,2026-09-28
+2026-09-28,LSIP,PT Perusahaan Perkebunan London Sumatra Indonesia Tbk,monitor,gbl,2026-09-28
+2026-09-28,MULT3,Multiplan Empreendimentos Imobiliários S.A.,interesting,gbl,2026-09-28
+2026-09-28,NWG,Newag S.A.,monitor,gbl,2026-09-28
+2026-09-28,PALI,Ronesans Gayrimenkul Yatirim A.S.,interesting,gbl,2026-09-28
+2026-09-28,RGYAS,Ronesans Gayrimenkul Yatirim A.S.,interesting,gbl,2026-09-28
+2026-09-28,ULTJ,PT Ultrajaya Milk Industry & Trading Company Tbk,buy,gbl,2026-09-28
+2026-09-28,VULC3,Vulcabras S.A.,monitor,gbl,2026-09-28
+2026-09-28,WINE,Purcari Wineries PCL,speculative,gbl,2026-09-28
+2026-09-28,ZIJMY,"Zijin Mining Group Co., Ltd.",monitor,gbl,2026-09-28
