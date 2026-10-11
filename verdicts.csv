@@ -99,6 +99,7 @@ date,symbol,name,verdict,source,recorded
 2026-07-22,ASIC,Ategrity Specialty Insurance Co Holdings,interesting,gbl,2026-09-28
 2026-07-22,FFH,Fairfax Financial Holdings Limited,buy,gbl,2026-09-28
 2026-07-22,GSL,"Global Ship Lease, Inc.",interesting,deep,2026-09-28
+2026-07-22,NAVF,Nippon Active Value Fund plc,interesting,v31,2026-10-11
 2026-07-22,SNN,S.N. Nuclearelectrica S.A.,buy,v31,2026-09-28
 2026-07-22,UBER,"Uber Technologies, Inc.",monitor,v31,2026-09-28
 2026-07-23,DAC,Danaos Corporation,interesting,v31,2026-09-28
@@ -546,6 +547,7 @@ date,symbol,name,verdict,source,recorded
 2026-08-31,LRCX,Lam Research Corporation,monitor,v31,2026-09-28
 2026-08-31,MAKO,Mako Mining Corp.,speculative,v31,2026-09-28
 2026-08-31,NAT,Nordic American Tankers Limited,speculative,v31,2026-09-28
+2026-08-31,NAVF,Nippon Active Value Fund plc,interesting,v31,2026-10-11
 2026-08-31,NBN,Northeast Bank,interesting,v31,2026-09-28
 2026-08-31,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
 2026-08-31,RGTI,Quantum Computing – Rigetti (NASDAQ),avoid,v31,2026-09-28
@@ -591,6 +593,7 @@ date,symbol,name,verdict,source,recorded
 2026-09-03,IMP,Impact Developer & Contractor S.A.,speculative,v31,2026-09-28
 2026-09-03,INSP,"Inspire Medical Systems, Inc.",avoid,v31,2026-09-28
 2026-09-03,INTU,Intuit Inc.,interesting,v31,2026-09-28
+2026-09-03,NAVF,Nippon Active Value Fund plc,interesting,v31,2026-10-11
 2026-09-03,NMIH,"NMI Holdings, Inc.",interesting,v31,2026-09-28
 2026-09-03,PDD,PDD Holdings Inc.,monitor,v31,2026-09-28
 2026-09-03,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
@@ -889,6 +892,7 @@ date,symbol,name,verdict,source,recorded
 2026-09-06,MU,"Micron Technology, Inc.",speculative,v31,2026-09-28
 2026-09-06,MWA,"Mueller Water Products, Inc.",interesting,v31,2026-09-28
 2026-09-06,NAT,Nordic American Tankers Limited,speculative,v31,2026-09-28
+2026-09-06,NAVF,Nippon Active Value Fund plc,interesting,v31,2026-10-11
 2026-09-06,NBN,Northeast Bank,interesting,v31,2026-09-28
 2026-09-06,NCV,Virtus Convertible & Income Fund (NYSE),speculative,rescor_dovezi,2026-09-28
 2026-09-06,NCZ,Virtus Convertible & Income Fund II (NYSE),speculative,rescor_dovezi,2026-09-28
