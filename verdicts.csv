@@ -212,6 +212,7 @@ date,symbol,name,verdict,source,recorded
 2026-08-15,CEPU,Central Puerto S.A.,interesting,v31,2026-09-28
 2026-08-15,CPA,"Copa Holdings, S.A.",interesting,v31,2026-09-28
 2026-08-15,DAC,Danaos Corporation,interesting,gbl,2026-09-28
+2026-08-15,EOD,Allspring Global Dividend Opportunity Fund,monitor,v31,2026-10-12
 2026-08-15,GSL,"Global Ship Lease, Inc.",buy,v31,2026-09-28
 2026-08-15,HCI,"HCI Group, Inc.",monitor,gbl,2026-09-28
 2026-08-15,THX,Thor Explorations Ltd.,monitor,gbl,2026-09-28
@@ -430,6 +431,8 @@ date,symbol,name,verdict,source,recorded
 2026-08-23,IA,"Innovative Solutions and Support, Inc. (rebranded Innovative Aerosystems, fost ISSC)",interesting,v31,2026-09-28
 2026-08-23,IHP,IntegraFin Holdings plc,interesting,v31,2026-09-28
 2026-08-23,INCY,Incyte Corporation,monitor,v31,2026-09-28
+2026-08-23,INVE_A,Investor AB (publ),monitor,v31,2026-10-12
+2026-08-23,INVE_B,Investor AB (publ),interesting,v31,2026-10-12
 2026-08-23,ITRN,Ituran Location and Control Ltd.,interesting,v31,2026-09-28
 2026-08-23,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
 2026-08-23,KGH,KGHM Polska Miedz S.A.,speculative,v31,2026-09-28
@@ -811,6 +814,7 @@ date,symbol,name,verdict,source,recorded
 2026-09-06,EMG,Man Group PLC,monitor,v31,2026-09-28
 2026-09-06,EMPYF,Empress Royalty Corp.,speculative,v31,2026-09-28
 2026-09-06,ENGI,Engie SA,monitor,v31,2026-09-28
+2026-09-06,EOD,Allspring Global Dividend Opportunity Fund,monitor,v31,2026-10-12
 2026-09-06,ERO,Ero Copper Corp.,speculative,v31,2026-09-28
 2026-09-06,ESEA,Euroseas Ltd.,monitor,v31,2026-09-28
 2026-09-06,ETG,Fond inchis (CEF) - Eaton Vance Tax-Adv. Global Div. Income,avoid,rescor_dovezi,2026-09-28
@@ -860,6 +864,8 @@ date,symbol,name,verdict,source,recorded
 2026-09-06,INSW,Transport maritim petrol - International Seaways (NYSE),speculative,v31,2026-09-28
 2026-09-06,INTU,Intuit Inc.,interesting,v31,2026-09-28
 2026-09-06,INVA,"Innoviva, Inc.",monitor,v31,2026-09-28
+2026-09-06,INVE_A,Investor AB (publ),monitor,v31,2026-10-12
+2026-09-06,INVE_B,Investor AB (publ),interesting,v31,2026-10-12
 2026-09-06,ITRN,Ituran Location and Control Ltd.,interesting,v31,2026-09-28
 2026-09-06,JAZZ,Jazz Pharmaceuticals plc,speculative,v31,2026-09-28
 2026-09-06,JCH,"Jack Henry & Associates, Inc.",monitor,v31,2026-09-28
