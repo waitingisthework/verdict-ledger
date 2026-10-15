@@ -530,6 +530,7 @@ date,symbol,name,verdict,source,recorded
 2026-08-29,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
 2026-08-29,MOWI,Mowi ASA,monitor,v31,2026-09-28
 2026-08-29,RR,Rolls-Royce Holdings plc,monitor,v31,2026-09-28
+2026-08-29,RVT,"Royce Small-Cap Trust, Inc.",monitor,v31,2026-10-15
 2026-08-29,THXPF,Thor Explorations Ltd.,monitor,gbl,2026-09-28
 2026-08-29,TKA,thyssenkrupp AG,avoid,v31,2026-09-28
 2026-08-29,TRMD,TORM plc Class A,monitor,v31,2026-09-28
@@ -541,6 +542,7 @@ date,symbol,name,verdict,source,recorded
 2026-08-30,JEGI,JPMorgan European Growth & Income plc,interesting,gbl,2026-09-28
 2026-08-30,MAKO,Mako Mining Corp.,monitor,gbl,2026-09-28
 2026-08-30,NAT,Nordic American Tankers Limited,speculative,v31,2026-09-28
+2026-08-30,RVT,"Royce Small-Cap Trust, Inc.",interesting,v31,2026-10-15
 2026-08-30,THXPF,Thor Explorations Ltd.,monitor,gbl,2026-09-28
 2026-08-30,ZM,"Zoom Video Communications, Inc.",speculative,v31,2026-09-28
 2026-08-31,CBNK,"Capital Bancorp, Inc.",interesting,v31,2026-09-28
@@ -554,6 +556,7 @@ date,symbol,name,verdict,source,recorded
 2026-08-31,NBN,Northeast Bank,interesting,v31,2026-09-28
 2026-08-31,QBTS,Quantum Computing – D-Wave (NYSE),avoid,v31,2026-09-28
 2026-08-31,RGTI,Quantum Computing – Rigetti (NASDAQ),avoid,v31,2026-09-28
+2026-08-31,RVT,"Royce Small-Cap Trust, Inc.",interesting,v31,2026-10-15
 2026-08-31,THX,Thor Explorations Ltd.,monitor,v31,2026-09-28
 2026-08-31,THXPF,Thor Explorations Ltd.,monitor,v31,2026-09-28
 2026-08-31,TRMD,TORM plc Class A,interesting,import,2026-09-28
@@ -942,6 +945,7 @@ date,symbol,name,verdict,source,recorded
 2026-09-06,RNL,Renault SA,speculative,v31,2026-09-28
 2026-09-06,RR,Rolls-Royce Holdings plc,monitor,v31,2026-09-28
 2026-09-06,RSG,"Republic Services, Inc.",monitor,v31,2026-09-28
+2026-09-06,RVT,"Royce Small-Cap Trust, Inc.",interesting,v31,2026-10-15
 2026-09-06,SBC,SBC Medical Group Holdings Inc,speculative,v31,2026-09-28
 2026-09-06,SCZM,Santacruz Silver Mining Ltd.,speculative,v31,2026-09-28
 2026-09-06,SDR,Schroders plc,speculative,v31,2026-09-28
