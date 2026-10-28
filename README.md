@@ -40,3 +40,25 @@ most a few days.
 
 A stamp shows when something was written, not that it was right. Whether the
 verdicts were any good is what the track-record page measures.
+
+## Methodology versions
+
+`METHODOLOGY.md` is the version-controlled copy of the
+[methodology page](https://waitingisthework.com/methodology/). Its first line is
+the version and date (`v1.0 · 2026-10-27`); every change gets a dated entry in
+`CHANGELOG.md` and a commit. Each released version is timestamped the same way
+as the verdict files: `stamps/METHODOLOGY-v<X.Y>.sha256` holds the SHA-256 of
+`METHODOLOGY.md` as released, and `stamps/METHODOLOGY-v<X.Y>.ots` the
+OpenTimestamps proof anchoring it in Bitcoin.
+
+A version is only released when the header carries a higher version number than
+the last stamped one and `CHANGELOG.md` has an entry for it with a date and what
+changed. Older versions are never deleted: they stay in the git history, each
+under its own stamp.
+
+```
+ots verify stamps/METHODOLOGY-v1.0.ots -f METHODOLOGY.md
+```
+
+(Verify against the file as it stood in the commit that was stamped, e.g.
+`git show a22924f:METHODOLOGY.md`, once a later version has replaced it.)
