@@ -1439,3 +1439,10 @@ date,symbol,name,verdict,source,recorded
 2026-10-09,PUK,Prudential plc,interesting,gbl,2026-11-08
 2026-10-09,REX,REX American Resources Corporation,monitor,gbl,2026-11-08
 2026-10-09,RVT,"Royce Small-Cap Trust, Inc.",speculative,gbl,2026-11-08
+2026-10-10,2645,Evergreen Aviation Technologies Corporation,interesting,gbl,2026-11-09
+2026-10-10,9980,"Eastroc Beverage (Group) Co., Ltd. Class H",interesting,gbl,2026-11-09
+2026-10-10,CAAP,Corporacion America Airports S.A.,monitor,gbl,2026-11-09
+2026-10-10,CRWD,"CrowdStrike Holdings, Inc. Class A",speculative,gbl,2026-11-09
+2026-10-10,GPMXY,Grupo Mexico S.A.B. de C.V.,buy,gbl,2026-11-09
+2026-10-10,NET,Cloudflare Inc Class A,speculative,gbl,2026-11-09
+2026-10-10,SNOW,Snowflake Inc.,avoid,gbl,2026-11-09
