@@ -1446,3 +1446,11 @@ date,symbol,name,verdict,source,recorded
 2026-10-10,GPMXY,Grupo Mexico S.A.B. de C.V.,buy,gbl,2026-11-09
 2026-10-10,NET,Cloudflare Inc Class A,speculative,gbl,2026-11-09
 2026-10-10,SNOW,Snowflake Inc.,avoid,gbl,2026-11-09
+2026-10-11,AAPL,Apple Inc.,interesting,gbl,2026-11-10
+2026-10-11,CCJ,Cameco Corporation,interesting,gbl,2026-11-10
+2026-10-11,FLEX,Flex Ltd.,speculative,gbl,2026-11-10
+2026-10-11,KAP,National Atomic Company Kazatomprom JSC,monitor,gbl,2026-11-10
+2026-10-11,LLY,Eli Lilly and Company,interesting,gbl,2026-11-10
+2026-10-11,MC,"LVMH Moët Hennessy - Louis Vuitton, SE",interesting,gbl,2026-11-10
+2026-10-11,META,"Meta Platforms, Inc.",monitor,gbl,2026-11-10
+2026-10-11,NBN,Northeast Bank,buy,gbl,2026-11-10
