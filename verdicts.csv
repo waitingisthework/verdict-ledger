@@ -1530,3 +1530,18 @@ date,symbol,name,verdict,source,recorded
 2026-10-13,UAM,S.C. UAMT S.A.,avoid,gbl,2026-11-12
 2026-10-13,VESY,VES S.A.,avoid,gbl,2026-11-12
 2026-10-13,VNC,VRANCART SA,avoid,gbl,2026-11-12
+2026-10-14,064350,Hyundai Rotem Company,monitor,mecanic,2026-11-13
+2026-10-14,2303,United Microelectronics Corp.,avoid,gbl,2026-11-13
+2026-10-14,3577,"ICP Das Co., Ltd.",speculative,gbl,2026-11-13
+2026-10-14,AAG,S.C AAGES S.A.,speculative,gbl,2026-11-13
+2026-10-14,ALRIB,Riber S.A.,interesting,gbl,2026-11-13
+2026-10-14,ASML,ASML Holding N.V.,interesting,gbl,2026-11-13
+2026-10-14,BSSR,PT Baramulti Suksessarana Tbk,monitor,gbl,2026-11-13
+2026-10-14,CBOE,"Cboe Global Markets, Inc.",monitor,gbl,2026-11-13
+2026-10-14,HIG,"The Hartford Insurance Group, Inc.",monitor,gbl,2026-11-13
+2026-10-14,IARV,IAR S.A. Brasov,monitor,gbl,2026-11-13
+2026-10-14,MMTMF,Monument Mining Limited,speculative,gbl,2026-11-13
+2026-10-14,NC,Novere Capital S.A.,avoid,gbl,2026-11-13
+2026-10-14,PBK,Patria Bank S.A.,monitor,gbl,2026-11-13
+2026-10-14,PL,Planet Labs PBC,avoid,gbl,2026-11-13
+2026-10-14,RMAH,Farmaceutica REMEDIA S.A.,monitor,gbl,2026-11-13
