@@ -1545,3 +1545,12 @@ date,symbol,name,verdict,source,recorded
 2026-10-14,PBK,Patria Bank S.A.,monitor,gbl,2026-11-13
 2026-10-14,PL,Planet Labs PBC,avoid,gbl,2026-11-13
 2026-10-14,RMAH,Farmaceutica REMEDIA S.A.,monitor,gbl,2026-11-13
+2026-10-15,4432,WingArc1st Inc.,interesting,gbl,2026-11-14
+2026-10-15,BRK,SSIF BRK Financial Group S.A.,speculative,gbl,2026-11-14
+2026-10-15,CMF,Comelf S.A.,speculative,gbl,2026-11-14
+2026-10-15,FHI,"Federated Hermes, Inc. Class B",interesting,mecanic,2026-11-14
+2026-10-15,HACK,Hacksaw AB (publ),interesting,gbl,2026-11-14
+2026-10-15,JNJ,Johnson & Johnson,speculative,mecanic,2026-11-14
+2026-10-15,ORNAV,Orion Oyj Class A,monitor,gbl,2026-11-14
+2026-10-15,PSAB,PT J Resources Asia Pasifik Tbk,speculative,gbl,2026-11-14
+2026-10-15,RPH,S.C. Ropharma S.A.,speculative,gbl,2026-11-14
