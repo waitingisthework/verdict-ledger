@@ -1554,6 +1554,7 @@ date,symbol,name,verdict,source,recorded
 2026-10-15,ORNAV,Orion Oyj Class A,monitor,gbl,2026-11-14
 2026-10-15,PSAB,PT J Resources Asia Pasifik Tbk,speculative,gbl,2026-11-14
 2026-10-15,RPH,S.C. Ropharma S.A.,speculative,gbl,2026-11-14
+2026-10-15,TLV,Banca Transilvania S.A.,interesting,mecanic,2026-11-17
 2026-10-16,1200,Midland Holdings Limited,monitor,gbl,2026-11-15
 2026-10-16,3030,"Test Research, Inc.",monitor,gbl,2026-11-15
 2026-10-16,3750,"Contemporary Amperex Technology Co., Limited (Clasa H)",interesting,gbl,2026-11-15
@@ -1570,3 +1571,4 @@ date,symbol,name,verdict,source,recorded
 2026-10-17,AVGO,Broadcom Inc.,buy,gbl,2026-11-16
 2026-10-17,BCG,Baltic Classifieds Group plc,buy,mecanic,2026-11-16
 2026-10-17,CBNK,"Capital Bancorp, Inc.",monitor,gbl,2026-11-16
+2026-10-18,1INN,innoscripta SE,interesting,gbl,2026-11-17
