@@ -1,4 +1,4 @@
-v1.0 · 2026-10-27
+v1.1 · 2026-11-19
 
 # Methodology of Waiting Is the Work
 
@@ -122,16 +122,20 @@ Structural rules: a company with negative earnings is flagged "outside the frame
 
 ## 8. Verdict bands
 
-The published score is a 10-point band, never the exact percentage. A verdict describes the status of a candidate in the author's research queue at a stated date, on stated criteria; it is not an instruction to any reader.
+The published score is a 10-point band, never the exact percentage. A verdict describes the company at the price of the day, at a stated date and on stated criteria. It is a description, not a recommendation, and it is not an instruction to any reader.
 
-| Verdict | Range |
-|---|---|
-| Strong buy candidate | 82-100 |
-| Buy candidate | 72-82 |
-| Interesting | 62-72 |
-| Monitor | 48-62 |
-| Speculative | 32-48 |
-| Avoid | 0-32 |
+Since v1.1 (2026-11-19) the published labels carry no signal language. The internal codes in `verdicts.csv`, in the data files and in URLs are unchanged; only the label shown to readers changed. Mapping from code to the label shown:
+
+| Code (in `verdicts.csv`) | Label shown (EN) | Label shown (RO) | Range |
+|---|---|---|---|
+| strong_buy | Exceptional | Excepțional | 82-100 |
+| buy | Strong | Puternic | 72-82 |
+| interesting | Interesting | Interesant | 62-72 |
+| monitor | Watch | De urmărit | 48-62 |
+| speculative | Speculative | Speculativ | 32-48 |
+| avoid | Weak | Slab | 0-32 |
+
+The ranges are unchanged from v1.0. Before v1.1 the same bands were shown as "Strong buy candidate", "Buy candidate", "Interesting", "Monitor", "Speculative" and "Avoid"; a verdict row issued under v1.0 reads against the same code and the same range.
 
 "Not scored" means exactly that.
 

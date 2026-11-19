@@ -12,7 +12,7 @@ was said, and when.
 
 ## Files
 
-- `verdicts.csv`: one row per (ticker, day). `date` is the evaluation date,
+- `verdicts.csv`: one row per (ticker, day). The `verdict` column holds the internal code (`strong_buy`, `buy`, `interesting`, `monitor`, `speculative`, `avoid`); the label readers see is in METHODOLOGY.md section 8. `date` is the evaluation date,
   `recorded` is the day the row entered this ledger. Rows are only ever added.
 - `revisions.csv`: days where the site now shows a different verdict than the
   one frozen here, because a scoring change reached back in time. The ledger
@@ -45,7 +45,7 @@ verdicts were any good is what the track-record page measures.
 
 `METHODOLOGY.md` is the version-controlled copy of the
 [methodology page](https://waitingisthework.com/methodology/). Its first line is
-the version and date (`v1.0 · 2026-10-27`); every change gets a dated entry in
+the version and date (`v1.1 · 2026-11-19`); every change gets a dated entry in
 `CHANGELOG.md` and a commit. Each released version is timestamped the same way
 as the verdict files: `stamps/METHODOLOGY-v<X.Y>.sha256` holds the SHA-256 of
 `METHODOLOGY.md` as released, and `stamps/METHODOLOGY-v<X.Y>.ots` the
@@ -57,7 +57,7 @@ changed. Older versions are never deleted: they stay in the git history, each
 under its own stamp.
 
 ```
-ots verify stamps/METHODOLOGY-v1.0.ots -f METHODOLOGY.md
+ots verify stamps/METHODOLOGY-v1.1.ots -f METHODOLOGY.md
 ```
 
 (Verify against the file as it stood in the commit that was stamped, e.g.
