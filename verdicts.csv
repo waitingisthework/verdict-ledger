@@ -1652,3 +1652,13 @@ date,symbol,name,verdict,source,recorded
 2026-10-24,SDVKY,Sandvik AB (publ),monitor,gbl,2026-11-23
 2026-10-24,SMCI,"Super Micro Computer, Inc.",speculative,gbl,2026-11-23
 2026-10-24,UVE,"Universal Insurance Holdings, Inc.",monitor,gbl,2026-11-23
+2026-10-25,2273,Gushengtang Holdings Ltd,speculative,gbl,2026-11-24
+2026-10-25,AMZN,Amazon.com Inc,interesting,gbl,2026-11-24
+2026-10-25,BAC,Bank of America Corporation,monitor,gbl,2026-11-24
+2026-10-25,EVER,"EverQuote, Inc. Class A",speculative,gbl,2026-11-24
+2026-10-25,FAF,First American Financial Corporation,interesting,gbl,2026-11-24
+2026-10-25,IDXX,"IDEXX Laboratories, Inc.",interesting,gbl,2026-11-24
+2026-10-25,ISRG,"Intuitive Surgical, Inc.",interesting,gbl,2026-11-24
+2026-10-25,MSFT,Microsoft Corporation,interesting,gbl,2026-11-24
+2026-10-25,V,Visa Inc.,interesting,gbl,2026-11-24
+2026-10-25,WM,"Waste Management, Inc.",monitor,gbl,2026-11-24
