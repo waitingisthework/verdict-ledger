@@ -1662,3 +1662,14 @@ date,symbol,name,verdict,source,recorded
 2026-10-25,MSFT,Microsoft Corporation,interesting,gbl,2026-11-24
 2026-10-25,V,Visa Inc.,interesting,gbl,2026-11-24
 2026-10-25,WM,"Waste Management, Inc.",monitor,gbl,2026-11-24
+2026-10-26,ADSK,"Autodesk, Inc.",monitor,gbl,2026-11-25
+2026-10-26,BVN,Compania de Minas Buenaventura S.A.A.,speculative,gbl,2026-11-25
+2026-10-26,CRH,CRH plc,interesting,gbl,2026-11-25
+2026-10-26,DIS,The Walt Disney Company,monitor,gbl,2026-11-25
+2026-10-26,KTOS,"Kratos Defense & Security Solutions, Inc.",avoid,gbl,2026-11-25
+2026-10-26,LRCX,Lam Research Corporation,monitor,mecanic,2026-11-25
+2026-10-26,MCO,Moody's Corporation,buy,gbl,2026-11-25
+2026-10-26,NOW,"ServiceNow, Inc.",speculative,gbl,2026-11-25
+2026-10-26,NRIM,"Northrim BanCorp, Inc.",interesting,gbl,2026-11-25
+2026-10-26,OGC,OceanaGold Corporation,speculative,gbl,2026-11-25
+2026-10-26,TSLA,"Tesla, Inc.",avoid,mecanic,2026-11-25
